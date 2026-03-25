@@ -1,11 +1,9 @@
----
-name: predictstock-ai
 services:
   - type: web
-    name: predictstock-api
+    name: predictstock-ai
     env: python
-    buildCommand: "./build.sh"
-    startCommand: "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
+    buildCommand: ./build.sh
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
-        value: "3.11.9"
+        value: 3.11.9
