@@ -58,7 +58,7 @@ Si prefieres configurar el servicio manualmente sin usar la opción Blueprint:
    - **Language**: Python
    - **Branch**: main
    - **Root Directory**: *(Déjalo completamente en blanco)*
-   - **Build Command**: `./build.sh`
+   - **Build Command**: `./build.sh`-
    - **Start Command**: `cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT`
 4. En la sección de **Environment Variables** (Variables de Entorno Avanzadas), añade:
    - `PYTHON_VERSION` = `3.11.9`

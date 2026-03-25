@@ -1,0 +1,1729 @@
+fecha,producto_id,cantidad_vendida,precio,stock_actual,nombre_producto,categoria,marca,descuento_porcentaje,clima_predominante,costo_envio
+2025-06-01,PROD-101,38,899.99,63,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.71
+2025-06-01,PROD-102,61,120.0,93,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.36
+2025-06-01,PROD-103,14,85.5,264,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.25
+2025-06-01,PROD-104,14,15.0,100,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.88
+2025-06-01,PROD-105,10,250.0,272,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.33
+2025-06-01,PROD-106,18,199.9,277,Silla Gamer,Muebles,SecretLab,0,Calor,6.94
+2025-06-02,PROD-101,36,629.99,225,Smartphone Galaxy,Electrónica,Samsung,30,Calor,8.33
+2025-06-02,PROD-102,33,84.0,60,Zapatillas Running,Ropa y Calzado,Nike,30,Calor,8.11
+2025-06-02,PROD-103,9,85.5,255,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.87
+2025-06-02,PROD-104,12,15.0,88,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.82
+2025-06-02,PROD-105,9,250.0,263,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.37
+2025-06-02,PROD-106,15,199.9,262,Silla Gamer,Muebles,SecretLab,0,Calor,3.01
+2025-06-03,PROD-101,22,899.99,203,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.81
+2025-06-03,PROD-102,39,120.0,21,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.34
+2025-06-03,PROD-103,12,85.5,243,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.38
+2025-06-03,PROD-104,12,15.0,76,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.37
+2025-06-03,PROD-105,10,250.0,253,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.57
+2025-06-03,PROD-106,12,199.9,250,Silla Gamer,Muebles,SecretLab,0,Calor,4.69
+2025-06-04,PROD-101,24,899.99,179,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.57
+2025-06-04,PROD-102,36,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.31
+2025-06-04,PROD-103,8,85.5,235,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.07
+2025-06-04,PROD-104,15,15.0,61,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.85
+2025-06-04,PROD-105,8,250.0,245,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.33
+2025-06-04,PROD-106,16,199.9,234,Silla Gamer,Muebles,SecretLab,0,Calor,4.08
+2025-06-05,PROD-101,28,809.99,151,Smartphone Galaxy,Electrónica,Samsung,10,Calor,7.26
+2025-06-05,PROD-102,33,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.99
+2025-06-05,PROD-103,10,85.5,225,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.72
+2025-06-05,PROD-104,15,10.5,46,Protector Solar FPS50,Salud y Belleza,Nivea,30,Calor,7.06
+2025-06-05,PROD-105,9,250.0,236,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.61
+2025-06-05,PROD-106,18,199.9,216,Silla Gamer,Muebles,SecretLab,0,Calor,5.26
+2025-06-06,PROD-101,21,899.99,130,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.12
+2025-06-06,PROD-102,38,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.2
+2025-06-06,PROD-103,12,85.5,213,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.63
+2025-06-06,PROD-104,11,15.0,35,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.71
+2025-06-06,PROD-105,9,250.0,227,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.7
+2025-06-06,PROD-106,17,199.9,199,Silla Gamer,Muebles,SecretLab,0,Calor,2.1
+2025-06-07,PROD-101,34,899.99,96,Smartphone Galaxy,Electrónica,Samsung,0,Calor,6.67
+2025-06-07,PROD-102,61,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Calor,8.81
+2025-06-07,PROD-103,9,85.5,204,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.66
+2025-06-07,PROD-104,16,15.0,19,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.7
+2025-06-07,PROD-105,11,250.0,216,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.8
+2025-06-07,PROD-106,18,199.9,181,Silla Gamer,Muebles,SecretLab,0,Calor,8.45
+2025-06-08,PROD-101,30,899.99,66,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.02
+2025-06-08,PROD-102,46,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.75
+2025-06-08,PROD-103,13,85.5,191,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.81
+2025-06-08,PROD-104,15,15.0,4,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.3
+2025-06-08,PROD-105,8,250.0,208,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.13
+2025-06-08,PROD-106,21,199.9,160,Silla Gamer,Muebles,SecretLab,0,Calor,8.45
+2025-06-09,PROD-101,25,899.99,154,Smartphone Galaxy,Electrónica,Samsung,0,Calor,6.51
+2025-06-09,PROD-102,50,120.0,105,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.26
+2025-06-09,PROD-103,12,85.5,179,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.73
+2025-06-09,PROD-104,13,15.0,118,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.6
+2025-06-09,PROD-105,6,250.0,202,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.94
+2025-06-09,PROD-106,12,199.9,148,Silla Gamer,Muebles,SecretLab,0,Calor,3.56
+2025-06-10,PROD-101,30,899.99,124,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.27
+2025-06-10,PROD-102,30,120.0,75,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.39
+2025-06-10,PROD-103,7,85.5,172,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.83
+2025-06-10,PROD-104,12,15.0,106,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.56
+2025-06-10,PROD-105,6,225.0,196,Cafetera Espresso,Hogar,DeLonghi,10,Calor,6.8
+2025-06-10,PROD-106,11,199.9,137,Silla Gamer,Muebles,SecretLab,0,Calor,8.29
+2025-06-11,PROD-101,31,629.99,93,Smartphone Galaxy,Electrónica,Samsung,30,Calor,6.74
+2025-06-11,PROD-102,49,120.0,26,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.54
+2025-06-11,PROD-103,13,85.5,159,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.98
+2025-06-11,PROD-104,12,15.0,94,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.47
+2025-06-11,PROD-105,7,225.0,189,Cafetera Espresso,Hogar,DeLonghi,10,Calor,6.87
+2025-06-11,PROD-106,12,199.9,125,Silla Gamer,Muebles,SecretLab,0,Calor,7.35
+2025-06-12,PROD-101,21,899.99,72,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.83
+2025-06-12,PROD-102,41,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.19
+2025-06-12,PROD-103,6,85.5,153,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.88
+2025-06-12,PROD-104,10,15.0,84,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.48
+2025-06-12,PROD-105,6,225.0,183,Cafetera Espresso,Hogar,DeLonghi,10,Calor,9.86
+2025-06-12,PROD-106,18,199.9,107,Silla Gamer,Muebles,SecretLab,0,Calor,4.67
+2025-06-13,PROD-101,23,899.99,49,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.99
+2025-06-13,PROD-102,53,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.07
+2025-06-13,PROD-103,14,85.5,139,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.0
+2025-06-13,PROD-104,13,13.5,71,Protector Solar FPS50,Salud y Belleza,Nivea,10,Calor,5.72
+2025-06-13,PROD-105,7,250.0,176,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.68
+2025-06-13,PROD-106,14,199.9,93,Silla Gamer,Muebles,SecretLab,0,Calor,8.05
+2025-06-14,PROD-101,28,899.99,21,Smartphone Galaxy,Electrónica,Samsung,0,Calor,5.74
+2025-06-14,PROD-102,33,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.39
+2025-06-14,PROD-103,14,76.95,125,Chaqueta Invierno,Ropa y Calzado,NorthFace,10,Calor,4.89
+2025-06-14,PROD-104,15,15.0,56,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.65
+2025-06-14,PROD-105,11,250.0,165,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.6
+2025-06-14,PROD-106,22,199.9,71,Silla Gamer,Muebles,SecretLab,0,Calor,3.45
+2025-06-15,PROD-101,23,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.13
+2025-06-15,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.34
+2025-06-15,PROD-103,13,85.5,112,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.04
+2025-06-15,PROD-104,14,15.0,42,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.02
+2025-06-15,PROD-105,12,250.0,153,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.49
+2025-06-15,PROD-106,16,199.9,55,Silla Gamer,Muebles,SecretLab,0,Calor,3.77
+2025-06-16,PROD-101,23,899.99,143,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.81
+2025-06-16,PROD-102,43,96.0,122,Zapatillas Running,Ropa y Calzado,Nike,20,Calor,7.25
+2025-06-16,PROD-103,13,68.4,99,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Calor,3.51
+2025-06-16,PROD-104,11,15.0,178,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.86
+2025-06-16,PROD-105,8,250.0,145,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.65
+2025-06-16,PROD-106,18,199.9,195,Silla Gamer,Muebles,SecretLab,0,Calor,9.7
+2025-06-17,PROD-101,23,899.99,120,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.28
+2025-06-17,PROD-102,54,120.0,68,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.82
+2025-06-17,PROD-103,10,85.5,89,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.8
+2025-06-17,PROD-104,15,10.5,163,Protector Solar FPS50,Salud y Belleza,Nivea,30,Calor,2.75
+2025-06-17,PROD-105,4,250.0,141,Cafetera Espresso,Hogar,DeLonghi,0,Calor,2.68
+2025-06-17,PROD-106,12,199.9,183,Silla Gamer,Muebles,SecretLab,0,Calor,6.23
+2025-06-18,PROD-101,28,899.99,92,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.95
+2025-06-18,PROD-102,45,120.0,23,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.62
+2025-06-18,PROD-103,7,85.5,82,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.42
+2025-06-18,PROD-104,12,15.0,151,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.14
+2025-06-18,PROD-105,5,250.0,136,Cafetera Espresso,Hogar,DeLonghi,0,Calor,7.94
+2025-06-18,PROD-106,13,199.9,170,Silla Gamer,Muebles,SecretLab,0,Calor,8.0
+2025-06-19,PROD-101,32,899.99,60,Smartphone Galaxy,Electrónica,Samsung,0,Calor,6.98
+2025-06-19,PROD-102,36,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,2.92
+2025-06-19,PROD-103,9,85.5,73,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.4
+2025-06-19,PROD-104,12,15.0,139,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.26
+2025-06-19,PROD-105,7,250.0,129,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.75
+2025-06-19,PROD-106,14,199.9,156,Silla Gamer,Muebles,SecretLab,0,Calor,5.73
+2025-06-20,PROD-101,37,899.99,23,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.35
+2025-06-20,PROD-102,36,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.91
+2025-06-20,PROD-103,8,85.5,65,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.61
+2025-06-20,PROD-104,14,15.0,125,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.25
+2025-06-20,PROD-105,6,200.0,123,Cafetera Espresso,Hogar,DeLonghi,20,Calor,2.62
+2025-06-20,PROD-106,21,199.9,135,Silla Gamer,Muebles,SecretLab,0,Calor,2.77
+2025-06-21,PROD-101,40,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.19
+2025-06-21,PROD-102,56,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.51
+2025-06-21,PROD-103,12,85.5,53,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.22
+2025-06-21,PROD-104,16,15.0,109,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.07
+2025-06-21,PROD-105,10,250.0,113,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.5
+2025-06-21,PROD-106,17,199.9,118,Silla Gamer,Muebles,SecretLab,0,Calor,9.2
+2025-06-22,PROD-101,31,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,6.05
+2025-06-22,PROD-102,49,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,2.55
+2025-06-22,PROD-103,14,85.5,39,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.91
+2025-06-22,PROD-104,16,12.0,93,Protector Solar FPS50,Salud y Belleza,Nivea,20,Calor,7.66
+2025-06-22,PROD-105,13,250.0,100,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.2
+2025-06-22,PROD-106,12,199.9,106,Silla Gamer,Muebles,SecretLab,0,Calor,3.4
+2025-06-23,PROD-101,19,899.99,157,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.5
+2025-06-23,PROD-102,47,120.0,108,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.43
+2025-06-23,PROD-103,8,85.5,156,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.37
+2025-06-23,PROD-104,12,15.0,81,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.98
+2025-06-23,PROD-105,8,250.0,92,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.87
+2025-06-23,PROD-106,13,199.9,93,Silla Gamer,Muebles,SecretLab,0,Calor,6.78
+2025-06-24,PROD-101,28,899.99,129,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.04
+2025-06-24,PROD-102,56,120.0,52,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.96
+2025-06-24,PROD-103,9,85.5,147,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.16
+2025-06-24,PROD-104,14,15.0,67,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.54
+2025-06-24,PROD-105,8,250.0,84,Cafetera Espresso,Hogar,DeLonghi,0,Calor,2.51
+2025-06-24,PROD-106,15,199.9,78,Silla Gamer,Muebles,SecretLab,0,Calor,3.58
+2025-06-25,PROD-101,36,629.99,93,Smartphone Galaxy,Electrónica,Samsung,30,Calor,5.99
+2025-06-25,PROD-102,48,120.0,4,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.09
+2025-06-25,PROD-103,15,85.5,132,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.65
+2025-06-25,PROD-104,13,15.0,54,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.4
+2025-06-25,PROD-105,10,250.0,74,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.03
+2025-06-25,PROD-106,16,159.92,62,Silla Gamer,Muebles,SecretLab,20,Calor,9.13
+2025-06-26,PROD-101,31,899.99,62,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.22
+2025-06-26,PROD-102,41,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.98
+2025-06-26,PROD-103,7,85.5,125,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.8
+2025-06-26,PROD-104,14,10.5,40,Protector Solar FPS50,Salud y Belleza,Nivea,30,Calor,2.96
+2025-06-26,PROD-105,8,250.0,66,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.68
+2025-06-26,PROD-106,15,199.9,47,Silla Gamer,Muebles,SecretLab,0,Calor,8.95
+2025-06-27,PROD-101,25,899.99,37,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.22
+2025-06-27,PROD-102,28,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Calor,2.32
+2025-06-27,PROD-103,10,85.5,115,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.1
+2025-06-27,PROD-104,12,15.0,28,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.17
+2025-06-27,PROD-105,8,250.0,58,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.75
+2025-06-27,PROD-106,18,199.9,29,Silla Gamer,Muebles,SecretLab,0,Calor,2.96
+2025-06-28,PROD-101,31,899.99,6,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.71
+2025-06-28,PROD-102,56,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.55
+2025-06-28,PROD-103,11,59.85,104,Chaqueta Invierno,Ropa y Calzado,NorthFace,30,Calor,2.22
+2025-06-28,PROD-104,16,15.0,12,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.38
+2025-06-28,PROD-105,11,250.0,47,Cafetera Espresso,Hogar,DeLonghi,0,Calor,2.69
+2025-06-28,PROD-106,20,199.9,9,Silla Gamer,Muebles,SecretLab,0,Calor,6.04
+2025-06-29,PROD-101,43,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.67
+2025-06-29,PROD-102,62,108.0,0,Zapatillas Running,Ropa y Calzado,Nike,10,Calor,3.79
+2025-06-29,PROD-103,14,85.5,90,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.18
+2025-06-29,PROD-104,16,15.0,0,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.65
+2025-06-29,PROD-105,13,250.0,34,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.96
+2025-06-29,PROD-106,14,179.91,0,Silla Gamer,Muebles,SecretLab,10,Calor,9.34
+2025-06-30,PROD-101,28,899.99,184,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.82
+2025-06-30,PROD-102,58,96.0,189,Zapatillas Running,Ropa y Calzado,Nike,20,Calor,6.9
+2025-06-30,PROD-103,11,85.5,79,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.0
+2025-06-30,PROD-104,12,15.0,129,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.17
+2025-06-30,PROD-105,9,250.0,199,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.52
+2025-06-30,PROD-106,13,199.9,153,Silla Gamer,Muebles,SecretLab,0,Calor,6.52
+2025-07-01,PROD-101,29,899.99,155,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.32
+2025-07-01,PROD-102,29,120.0,160,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.18
+2025-07-01,PROD-103,7,85.5,72,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.72
+2025-07-01,PROD-104,10,15.0,119,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.12
+2025-07-01,PROD-105,11,250.0,188,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.85
+2025-07-01,PROD-106,9,179.91,144,Silla Gamer,Muebles,SecretLab,10,Calor,8.17
+2025-07-02,PROD-101,24,899.99,131,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.12
+2025-07-02,PROD-102,35,120.0,125,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.47
+2025-07-02,PROD-103,8,85.5,64,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.46
+2025-07-02,PROD-104,13,15.0,106,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.65
+2025-07-02,PROD-105,7,250.0,181,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.92
+2025-07-02,PROD-106,22,159.92,122,Silla Gamer,Muebles,SecretLab,20,Calor,5.43
+2025-07-03,PROD-101,21,899.99,110,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.91
+2025-07-03,PROD-102,42,120.0,83,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.29
+2025-07-03,PROD-103,7,68.4,57,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Calor,6.77
+2025-07-03,PROD-104,12,15.0,94,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.78
+2025-07-03,PROD-105,5,250.0,176,Cafetera Espresso,Hogar,DeLonghi,0,Calor,7.51
+2025-07-03,PROD-106,12,199.9,110,Silla Gamer,Muebles,SecretLab,0,Calor,7.46
+2025-07-04,PROD-101,22,899.99,88,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.08
+2025-07-04,PROD-102,11,120.0,72,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.94
+2025-07-04,PROD-103,7,85.5,50,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.71
+2025-07-04,PROD-104,11,15.0,83,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.03
+2025-07-04,PROD-105,7,250.0,169,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.74
+2025-07-04,PROD-106,16,199.9,94,Silla Gamer,Muebles,SecretLab,0,Calor,4.61
+2025-07-05,PROD-101,35,899.99,53,Smartphone Galaxy,Electrónica,Samsung,0,Calor,5.84
+2025-07-05,PROD-102,49,84.0,23,Zapatillas Running,Ropa y Calzado,Nike,30,Calor,2.4
+2025-07-05,PROD-103,16,85.5,34,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.63
+2025-07-05,PROD-104,15,15.0,68,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.95
+2025-07-05,PROD-105,9,250.0,160,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.48
+2025-07-05,PROD-106,19,199.9,75,Silla Gamer,Muebles,SecretLab,0,Calor,7.33
+2025-07-06,PROD-101,30,899.99,23,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.14
+2025-07-06,PROD-102,57,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.1
+2025-07-06,PROD-103,12,85.5,22,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.49
+2025-07-06,PROD-104,14,15.0,54,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.05
+2025-07-06,PROD-105,7,225.0,153,Cafetera Espresso,Hogar,DeLonghi,10,Calor,3.39
+2025-07-06,PROD-106,21,199.9,54,Silla Gamer,Muebles,SecretLab,0,Calor,2.94
+2025-07-07,PROD-101,29,899.99,183,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.52
+2025-07-07,PROD-102,50,120.0,190,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.08
+2025-07-07,PROD-103,9,85.5,209,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.1
+2025-07-07,PROD-104,13,15.0,230,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.25
+2025-07-07,PROD-105,11,250.0,142,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.85
+2025-07-07,PROD-106,22,179.91,134,Silla Gamer,Muebles,SecretLab,10,Calor,2.87
+2025-07-08,PROD-101,28,899.99,155,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.33
+2025-07-08,PROD-102,15,120.0,175,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.65
+2025-07-08,PROD-103,11,85.5,198,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.45
+2025-07-08,PROD-104,11,15.0,219,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.57
+2025-07-08,PROD-105,9,250.0,133,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.5
+2025-07-08,PROD-106,13,199.9,121,Silla Gamer,Muebles,SecretLab,0,Calor,3.15
+2025-07-09,PROD-101,29,809.99,126,Smartphone Galaxy,Electrónica,Samsung,10,Calor,7.81
+2025-07-09,PROD-102,49,120.0,126,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.35
+2025-07-09,PROD-103,6,85.5,192,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.0
+2025-07-09,PROD-104,12,15.0,207,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.98
+2025-07-09,PROD-105,6,250.0,127,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.64
+2025-07-09,PROD-106,12,199.9,109,Silla Gamer,Muebles,SecretLab,0,Calor,2.1
+2025-07-10,PROD-101,29,809.99,97,Smartphone Galaxy,Electrónica,Samsung,10,Calor,8.84
+2025-07-10,PROD-102,30,120.0,96,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,2.2
+2025-07-10,PROD-103,11,85.5,181,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.42
+2025-07-10,PROD-104,12,13.5,195,Protector Solar FPS50,Salud y Belleza,Nivea,10,Calor,8.79
+2025-07-10,PROD-105,7,200.0,120,Cafetera Espresso,Hogar,DeLonghi,20,Calor,2.39
+2025-07-10,PROD-106,13,199.9,96,Silla Gamer,Muebles,SecretLab,0,Calor,6.94
+2025-07-11,PROD-101,31,899.99,66,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.48
+2025-07-11,PROD-102,51,96.0,45,Zapatillas Running,Ropa y Calzado,Nike,20,Calor,4.26
+2025-07-11,PROD-103,9,85.5,172,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.61
+2025-07-11,PROD-104,13,15.0,182,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.6
+2025-07-11,PROD-105,6,250.0,114,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.85
+2025-07-11,PROD-106,18,199.9,78,Silla Gamer,Muebles,SecretLab,0,Calor,7.53
+2025-07-12,PROD-101,31,899.99,35,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.95
+2025-07-12,PROD-102,40,120.0,5,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.97
+2025-07-12,PROD-103,15,68.4,157,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Calor,2.48
+2025-07-12,PROD-104,15,15.0,167,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.38
+2025-07-12,PROD-105,10,200.0,104,Cafetera Espresso,Hogar,DeLonghi,20,Calor,9.44
+2025-07-12,PROD-106,17,199.9,61,Silla Gamer,Muebles,SecretLab,0,Calor,9.84
+2025-07-13,PROD-101,36,719.99,0,Smartphone Galaxy,Electrónica,Samsung,20,Calor,6.27
+2025-07-13,PROD-102,63,108.0,0,Zapatillas Running,Ropa y Calzado,Nike,10,Calor,6.0
+2025-07-13,PROD-103,12,68.4,145,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Calor,4.46
+2025-07-13,PROD-104,22,10.5,145,Protector Solar FPS50,Salud y Belleza,Nivea,30,Calor,4.77
+2025-07-13,PROD-105,12,250.0,92,Cafetera Espresso,Hogar,DeLonghi,0,Calor,7.31
+2025-07-13,PROD-106,19,199.9,42,Silla Gamer,Muebles,SecretLab,0,Calor,6.11
+2025-07-14,PROD-101,26,899.99,192,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.72
+2025-07-14,PROD-102,32,120.0,170,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,2.19
+2025-07-14,PROD-103,10,85.5,135,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.02
+2025-07-14,PROD-104,14,15.0,131,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.93
+2025-07-14,PROD-105,8,250.0,84,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.98
+2025-07-14,PROD-106,10,199.9,227,Silla Gamer,Muebles,SecretLab,0,Calor,2.46
+2025-07-15,PROD-101,25,899.99,167,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.58
+2025-07-15,PROD-102,38,120.0,132,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.61
+2025-07-15,PROD-103,8,85.5,127,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.93
+2025-07-15,PROD-104,12,15.0,119,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.64
+2025-07-15,PROD-105,6,250.0,78,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.35
+2025-07-15,PROD-106,14,199.9,213,Silla Gamer,Muebles,SecretLab,0,Calor,6.72
+2025-07-16,PROD-101,22,899.99,145,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.49
+2025-07-16,PROD-102,30,120.0,102,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.32
+2025-07-16,PROD-103,10,85.5,117,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.05
+2025-07-16,PROD-104,11,15.0,108,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.08
+2025-07-16,PROD-105,9,250.0,69,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.22
+2025-07-16,PROD-106,12,199.9,201,Silla Gamer,Muebles,SecretLab,0,Calor,3.91
+2025-07-17,PROD-101,28,899.99,117,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.92
+2025-07-17,PROD-102,31,120.0,71,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.82
+2025-07-17,PROD-103,10,85.5,107,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.66
+2025-07-17,PROD-104,13,15.0,95,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.74
+2025-07-17,PROD-105,5,250.0,64,Cafetera Espresso,Hogar,DeLonghi,0,Calor,7.2
+2025-07-17,PROD-106,14,199.9,187,Silla Gamer,Muebles,SecretLab,0,Calor,4.67
+2025-07-18,PROD-101,19,809.99,98,Smartphone Galaxy,Electrónica,Samsung,10,Calor,9.59
+2025-07-18,PROD-102,37,120.0,34,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.7
+2025-07-18,PROD-103,9,85.5,98,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.11
+2025-07-18,PROD-104,12,15.0,83,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.44
+2025-07-18,PROD-105,6,250.0,58,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.36
+2025-07-18,PROD-106,21,199.9,166,Silla Gamer,Muebles,SecretLab,0,Calor,3.89
+2025-07-19,PROD-101,40,899.99,58,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.66
+2025-07-19,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.51
+2025-07-19,PROD-103,12,85.5,86,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.87
+2025-07-19,PROD-104,17,15.0,66,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.52
+2025-07-19,PROD-105,10,250.0,48,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.49
+2025-07-19,PROD-106,15,199.9,151,Silla Gamer,Muebles,SecretLab,0,Calor,8.89
+2025-07-20,PROD-101,27,899.99,31,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.3
+2025-07-20,PROD-102,50,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.69
+2025-07-20,PROD-103,11,85.5,75,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.64
+2025-07-20,PROD-104,15,15.0,51,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.04
+2025-07-20,PROD-105,10,250.0,38,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.04
+2025-07-20,PROD-106,20,199.9,131,Silla Gamer,Muebles,SecretLab,0,Calor,7.68
+2025-07-21,PROD-101,25,899.99,166,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.89
+2025-07-21,PROD-102,25,120.0,162,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.31
+2025-07-21,PROD-103,10,85.5,65,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.75
+2025-07-21,PROD-104,13,15.0,141,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.48
+2025-07-21,PROD-105,6,250.0,197,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.08
+2025-07-21,PROD-106,16,199.9,115,Silla Gamer,Muebles,SecretLab,0,Calor,9.61
+2025-07-22,PROD-101,30,899.99,136,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.43
+2025-07-22,PROD-102,33,120.0,129,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.18
+2025-07-22,PROD-103,10,85.5,55,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.79
+2025-07-22,PROD-104,12,15.0,129,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.96
+2025-07-22,PROD-105,8,250.0,189,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.89
+2025-07-22,PROD-106,11,199.9,104,Silla Gamer,Muebles,SecretLab,0,Calor,5.53
+2025-07-23,PROD-101,28,899.99,108,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.02
+2025-07-23,PROD-102,48,120.0,81,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.37
+2025-07-23,PROD-103,7,85.5,48,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.71
+2025-07-23,PROD-104,13,15.0,116,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.68
+2025-07-23,PROD-105,7,250.0,182,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.96
+2025-07-23,PROD-106,13,199.9,91,Silla Gamer,Muebles,SecretLab,0,Calor,2.76
+2025-07-24,PROD-101,20,899.99,88,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.97
+2025-07-24,PROD-102,36,120.0,45,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.76
+2025-07-24,PROD-103,10,85.5,38,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.52
+2025-07-24,PROD-104,12,15.0,104,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.23
+2025-07-24,PROD-105,8,200.0,174,Cafetera Espresso,Hogar,DeLonghi,20,Calor,4.01
+2025-07-24,PROD-106,13,199.9,78,Silla Gamer,Muebles,SecretLab,0,Calor,7.8
+2025-07-25,PROD-101,25,899.99,63,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.88
+2025-07-25,PROD-102,38,108.0,7,Zapatillas Running,Ropa y Calzado,Nike,10,Calor,5.65
+2025-07-25,PROD-103,11,85.5,27,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.33
+2025-07-25,PROD-104,11,15.0,93,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.19
+2025-07-25,PROD-105,7,250.0,167,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.27
+2025-07-25,PROD-106,19,199.9,59,Silla Gamer,Muebles,SecretLab,0,Calor,6.68
+2025-07-26,PROD-101,48,719.99,15,Smartphone Galaxy,Electrónica,Samsung,20,Calor,6.54
+2025-07-26,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.0
+2025-07-26,PROD-103,8,85.5,19,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.68
+2025-07-26,PROD-104,14,15.0,79,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.55
+2025-07-26,PROD-105,10,250.0,157,Cafetera Espresso,Hogar,DeLonghi,0,Calor,7.16
+2025-07-26,PROD-106,16,199.9,43,Silla Gamer,Muebles,SecretLab,0,Calor,4.5
+2025-07-27,PROD-101,32,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.78
+2025-07-27,PROD-102,38,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.07
+2025-07-27,PROD-103,15,59.85,4,Chaqueta Invierno,Ropa y Calzado,NorthFace,30,Calor,4.08
+2025-07-27,PROD-104,16,15.0,63,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.65
+2025-07-27,PROD-105,8,200.0,149,Cafetera Espresso,Hogar,DeLonghi,20,Calor,8.51
+2025-07-27,PROD-106,22,199.9,21,Silla Gamer,Muebles,SecretLab,0,Calor,8.31
+2025-07-28,PROD-101,15,899.99,150,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.41
+2025-07-28,PROD-102,36,120.0,176,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.13
+2025-07-28,PROD-103,12,85.5,197,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.85
+2025-07-28,PROD-104,11,15.0,52,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.38
+2025-07-28,PROD-105,6,250.0,143,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.39
+2025-07-28,PROD-106,13,199.9,127,Silla Gamer,Muebles,SecretLab,0,Calor,2.2
+2025-07-29,PROD-101,22,899.99,128,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.36
+2025-07-29,PROD-102,34,120.0,142,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.58
+2025-07-29,PROD-103,7,85.5,190,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.42
+2025-07-29,PROD-104,11,15.0,41,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.93
+2025-07-29,PROD-105,7,200.0,136,Cafetera Espresso,Hogar,DeLonghi,20,Calor,5.49
+2025-07-29,PROD-106,15,199.9,112,Silla Gamer,Muebles,SecretLab,0,Calor,6.43
+2025-07-30,PROD-101,17,899.99,111,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.32
+2025-07-30,PROD-102,35,120.0,107,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.29
+2025-07-30,PROD-103,8,85.5,182,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.81
+2025-07-30,PROD-104,13,15.0,28,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.4
+2025-07-30,PROD-105,7,250.0,129,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.3
+2025-07-30,PROD-106,12,199.9,100,Silla Gamer,Muebles,SecretLab,0,Calor,3.5
+2025-07-31,PROD-101,26,809.99,85,Smartphone Galaxy,Electrónica,Samsung,10,Calor,2.88
+2025-07-31,PROD-102,51,120.0,56,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.83
+2025-07-31,PROD-103,9,85.5,173,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.62
+2025-07-31,PROD-104,13,15.0,15,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.14
+2025-07-31,PROD-105,8,250.0,121,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.25
+2025-07-31,PROD-106,13,199.9,87,Silla Gamer,Muebles,SecretLab,0,Calor,9.26
+2025-08-01,PROD-101,48,899.99,37,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.73
+2025-08-01,PROD-102,33,120.0,23,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.19
+2025-08-01,PROD-103,11,85.5,162,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.16
+2025-08-01,PROD-104,14,15.0,1,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.91
+2025-08-01,PROD-105,8,250.0,113,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.74
+2025-08-01,PROD-106,19,139.93,68,Silla Gamer,Muebles,SecretLab,30,Calor,3.62
+2025-08-02,PROD-101,59,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.7
+2025-08-02,PROD-102,55,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.03
+2025-08-02,PROD-103,12,85.5,150,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.97
+2025-08-02,PROD-104,15,15.0,0,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.23
+2025-08-02,PROD-105,11,250.0,102,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.14
+2025-08-02,PROD-106,24,199.9,44,Silla Gamer,Muebles,SecretLab,0,Calor,5.47
+2025-08-03,PROD-101,57,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.04
+2025-08-03,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.29
+2025-08-03,PROD-103,13,85.5,137,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.11
+2025-08-03,PROD-104,15,15.0,0,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.77
+2025-08-03,PROD-105,7,250.0,95,Cafetera Espresso,Hogar,DeLonghi,0,Calor,7.82
+2025-08-03,PROD-106,15,199.9,29,Silla Gamer,Muebles,SecretLab,0,Calor,3.14
+2025-08-04,PROD-101,43,899.99,151,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.48
+2025-08-04,PROD-102,31,120.0,142,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.42
+2025-08-04,PROD-103,11,85.5,126,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.63
+2025-08-04,PROD-104,11,15.0,104,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.98
+2025-08-04,PROD-105,9,250.0,86,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.35
+2025-08-04,PROD-106,14,139.93,120,Silla Gamer,Muebles,SecretLab,30,Calor,2.55
+2025-08-05,PROD-101,43,899.99,108,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.94
+2025-08-05,PROD-102,29,120.0,113,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.61
+2025-08-05,PROD-103,8,85.5,118,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.03
+2025-08-05,PROD-104,13,15.0,91,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.98
+2025-08-05,PROD-105,6,250.0,80,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.5
+2025-08-05,PROD-106,15,199.9,105,Silla Gamer,Muebles,SecretLab,0,Calor,3.24
+2025-08-06,PROD-101,46,899.99,62,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.24
+2025-08-06,PROD-102,31,120.0,82,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.47
+2025-08-06,PROD-103,6,85.5,112,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.11
+2025-08-06,PROD-104,11,15.0,80,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.77
+2025-08-06,PROD-105,11,250.0,69,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.29
+2025-08-06,PROD-106,11,199.9,94,Silla Gamer,Muebles,SecretLab,0,Calor,8.85
+2025-08-07,PROD-101,40,899.99,22,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.17
+2025-08-07,PROD-102,38,120.0,44,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.06
+2025-08-07,PROD-103,10,85.5,102,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.12
+2025-08-07,PROD-104,13,15.0,67,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.65
+2025-08-07,PROD-105,7,250.0,62,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.52
+2025-08-07,PROD-106,13,199.9,81,Silla Gamer,Muebles,SecretLab,0,Calor,9.1
+2025-08-08,PROD-101,48,719.99,0,Smartphone Galaxy,Electrónica,Samsung,20,Calor,5.43
+2025-08-08,PROD-102,31,120.0,13,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.25
+2025-08-08,PROD-103,13,85.5,89,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.03
+2025-08-08,PROD-104,13,15.0,54,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.61
+2025-08-08,PROD-105,7,250.0,55,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.48
+2025-08-08,PROD-106,10,199.9,71,Silla Gamer,Muebles,SecretLab,0,Calor,5.99
+2025-08-09,PROD-101,57,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.56
+2025-08-09,PROD-102,65,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.56
+2025-08-09,PROD-103,10,85.5,79,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.9
+2025-08-09,PROD-104,15,15.0,39,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.09
+2025-08-09,PROD-105,8,250.0,47,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.81
+2025-08-09,PROD-106,16,199.9,55,Silla Gamer,Muebles,SecretLab,0,Calor,2.07
+2025-08-10,PROD-101,55,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.5
+2025-08-10,PROD-102,63,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.81
+2025-08-10,PROD-103,13,85.5,66,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,7.6
+2025-08-10,PROD-104,18,13.5,21,Protector Solar FPS50,Salud y Belleza,Nivea,10,Calor,2.4
+2025-08-10,PROD-105,9,250.0,38,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.69
+2025-08-10,PROD-106,22,199.9,33,Silla Gamer,Muebles,SecretLab,0,Calor,7.96
+2025-08-11,PROD-101,49,899.99,149,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.38
+2025-08-11,PROD-102,37,120.0,108,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,8.83
+2025-08-11,PROD-103,12,85.5,54,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.2
+2025-08-11,PROD-104,13,15.0,203,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.45
+2025-08-11,PROD-105,10,175.0,221,Cafetera Espresso,Hogar,DeLonghi,30,Calor,4.45
+2025-08-11,PROD-106,16,199.9,140,Silla Gamer,Muebles,SecretLab,0,Calor,6.86
+2025-08-12,PROD-101,44,899.99,105,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.35
+2025-08-12,PROD-102,26,120.0,82,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.82
+2025-08-12,PROD-103,13,85.5,41,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.29
+2025-08-12,PROD-104,12,15.0,191,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.13
+2025-08-12,PROD-105,7,250.0,214,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.77
+2025-08-12,PROD-106,14,199.9,126,Silla Gamer,Muebles,SecretLab,0,Calor,3.89
+2025-08-13,PROD-101,37,899.99,68,Smartphone Galaxy,Electrónica,Samsung,0,Calor,6.26
+2025-08-13,PROD-102,45,120.0,37,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.75
+2025-08-13,PROD-103,7,85.5,34,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.28
+2025-08-13,PROD-104,11,15.0,180,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.04
+2025-08-13,PROD-105,8,250.0,206,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.66
+2025-08-13,PROD-106,18,199.9,108,Silla Gamer,Muebles,SecretLab,0,Calor,2.69
+2025-08-14,PROD-101,55,899.99,13,Smartphone Galaxy,Electrónica,Samsung,0,Calor,5.34
+2025-08-14,PROD-102,36,120.0,1,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.07
+2025-08-14,PROD-103,8,85.5,26,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.48
+2025-08-14,PROD-104,11,15.0,169,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.89
+2025-08-14,PROD-105,10,250.0,196,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.38
+2025-08-14,PROD-106,14,199.9,94,Silla Gamer,Muebles,SecretLab,0,Calor,3.62
+2025-08-15,PROD-101,48,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,2.61
+2025-08-15,PROD-102,33,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,2.64
+2025-08-15,PROD-103,7,85.5,19,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.05
+2025-08-15,PROD-104,13,15.0,156,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,6.32
+2025-08-15,PROD-105,4,250.0,192,Cafetera Espresso,Hogar,DeLonghi,0,Calor,4.75
+2025-08-15,PROD-106,19,199.9,75,Silla Gamer,Muebles,SecretLab,0,Calor,3.44
+2025-08-16,PROD-101,53,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.83
+2025-08-16,PROD-102,43,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,5.06
+2025-08-16,PROD-103,11,85.5,8,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.16
+2025-08-16,PROD-104,15,15.0,141,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.41
+2025-08-16,PROD-105,9,250.0,183,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.37
+2025-08-16,PROD-106,22,199.9,53,Silla Gamer,Muebles,SecretLab,0,Calor,9.43
+2025-08-17,PROD-101,60,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,5.2
+2025-08-17,PROD-102,73,96.0,0,Zapatillas Running,Ropa y Calzado,Nike,20,Calor,7.55
+2025-08-17,PROD-103,13,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.75
+2025-08-17,PROD-104,16,15.0,125,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.01
+2025-08-17,PROD-105,8,250.0,175,Cafetera Espresso,Hogar,DeLonghi,0,Calor,2.17
+2025-08-17,PROD-106,21,199.9,32,Silla Gamer,Muebles,SecretLab,0,Calor,9.35
+2025-08-18,PROD-101,44,899.99,195,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.92
+2025-08-18,PROD-102,46,84.0,132,Zapatillas Running,Ropa y Calzado,Nike,30,Calor,3.6
+2025-08-18,PROD-103,10,85.5,168,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.79
+2025-08-18,PROD-104,15,12.0,110,Protector Solar FPS50,Salud y Belleza,Nivea,20,Calor,8.42
+2025-08-18,PROD-105,8,250.0,167,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.65
+2025-08-18,PROD-106,14,199.9,205,Silla Gamer,Muebles,SecretLab,0,Calor,7.53
+2025-08-19,PROD-101,53,809.99,142,Smartphone Galaxy,Electrónica,Samsung,10,Calor,9.7
+2025-08-19,PROD-102,53,120.0,79,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.47
+2025-08-19,PROD-103,12,85.5,156,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.37
+2025-08-19,PROD-104,12,15.0,98,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,2.88
+2025-08-19,PROD-105,8,250.0,159,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.59
+2025-08-19,PROD-106,14,199.9,191,Silla Gamer,Muebles,SecretLab,0,Calor,3.37
+2025-08-20,PROD-101,41,899.99,101,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.2
+2025-08-20,PROD-102,36,120.0,43,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.42
+2025-08-20,PROD-103,10,85.5,146,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.34
+2025-08-20,PROD-104,12,15.0,86,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,4.13
+2025-08-20,PROD-105,7,250.0,152,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.17
+2025-08-20,PROD-106,16,199.9,175,Silla Gamer,Muebles,SecretLab,0,Calor,3.16
+2025-08-21,PROD-101,40,899.99,61,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.23
+2025-08-21,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,7.22
+2025-08-21,PROD-103,12,85.5,134,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.86
+2025-08-21,PROD-104,13,15.0,73,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.64
+2025-08-21,PROD-105,10,250.0,142,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.61
+2025-08-21,PROD-106,9,199.9,166,Silla Gamer,Muebles,SecretLab,0,Calor,7.73
+2025-08-22,PROD-101,36,899.99,25,Smartphone Galaxy,Electrónica,Samsung,0,Calor,4.13
+2025-08-22,PROD-102,39,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.26
+2025-08-22,PROD-103,13,85.5,121,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,8.84
+2025-08-22,PROD-104,13,15.0,60,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,5.51
+2025-08-22,PROD-105,8,225.0,134,Cafetera Espresso,Hogar,DeLonghi,10,Calor,2.68
+2025-08-22,PROD-106,13,199.9,153,Silla Gamer,Muebles,SecretLab,0,Calor,3.8
+2025-08-23,PROD-101,63,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,3.16
+2025-08-23,PROD-102,52,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Calor,7.28
+2025-08-23,PROD-103,16,85.5,105,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,5.56
+2025-08-23,PROD-104,23,10.5,37,Protector Solar FPS50,Salud y Belleza,Nivea,30,Calor,4.33
+2025-08-23,PROD-105,9,250.0,125,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.32
+2025-08-23,PROD-106,16,199.9,137,Silla Gamer,Muebles,SecretLab,0,Calor,3.64
+2025-08-24,PROD-101,64,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,7.64
+2025-08-24,PROD-102,34,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.47
+2025-08-24,PROD-103,13,85.5,92,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.22
+2025-08-24,PROD-104,16,15.0,21,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,3.24
+2025-08-24,PROD-105,10,250.0,115,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.6
+2025-08-24,PROD-106,14,159.92,123,Silla Gamer,Muebles,SecretLab,20,Calor,2.48
+2025-08-25,PROD-101,56,899.99,125,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.81
+2025-08-25,PROD-102,34,120.0,152,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.09
+2025-08-25,PROD-103,8,85.5,84,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,2.19
+2025-08-25,PROD-104,13,15.0,147,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.81
+2025-08-25,PROD-105,9,250.0,106,Cafetera Espresso,Hogar,DeLonghi,0,Calor,8.77
+2025-08-25,PROD-106,12,199.9,111,Silla Gamer,Muebles,SecretLab,0,Calor,3.19
+2025-08-26,PROD-101,36,899.99,89,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.6
+2025-08-26,PROD-102,44,120.0,108,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,2.89
+2025-08-26,PROD-103,13,68.4,71,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Calor,4.27
+2025-08-26,PROD-104,12,15.0,135,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.61
+2025-08-26,PROD-105,8,250.0,98,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.81
+2025-08-26,PROD-106,12,199.9,99,Silla Gamer,Muebles,SecretLab,0,Calor,9.47
+2025-08-27,PROD-101,50,899.99,39,Smartphone Galaxy,Electrónica,Samsung,0,Calor,8.58
+2025-08-27,PROD-102,52,120.0,56,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,9.94
+2025-08-27,PROD-103,13,85.5,58,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.42
+2025-08-27,PROD-104,14,15.0,121,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,8.93
+2025-08-27,PROD-105,9,250.0,89,Cafetera Espresso,Hogar,DeLonghi,0,Calor,9.42
+2025-08-27,PROD-106,12,159.92,87,Silla Gamer,Muebles,SecretLab,20,Calor,4.06
+2025-08-28,PROD-101,42,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.6
+2025-08-28,PROD-102,40,120.0,16,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,6.89
+2025-08-28,PROD-103,11,85.5,47,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,6.42
+2025-08-28,PROD-104,12,15.0,109,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,9.53
+2025-08-28,PROD-105,3,250.0,86,Cafetera Espresso,Hogar,DeLonghi,0,Calor,3.31
+2025-08-28,PROD-106,13,199.9,74,Silla Gamer,Muebles,SecretLab,0,Calor,2.22
+2025-08-29,PROD-101,50,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,9.66
+2025-08-29,PROD-102,54,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.1
+2025-08-29,PROD-103,10,85.5,37,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,4.85
+2025-08-29,PROD-104,11,15.0,98,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.78
+2025-08-29,PROD-105,5,250.0,81,Cafetera Espresso,Hogar,DeLonghi,0,Calor,6.13
+2025-08-29,PROD-106,16,199.9,58,Silla Gamer,Muebles,SecretLab,0,Calor,3.46
+2025-08-30,PROD-101,51,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,5.76
+2025-08-30,PROD-102,60,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,4.42
+2025-08-30,PROD-103,13,85.5,24,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,3.01
+2025-08-30,PROD-104,15,15.0,83,Protector Solar FPS50,Salud y Belleza,Nivea,0,Calor,7.97
+2025-08-30,PROD-105,10,250.0,71,Cafetera Espresso,Hogar,DeLonghi,0,Calor,2.64
+2025-08-30,PROD-106,22,199.9,36,Silla Gamer,Muebles,SecretLab,0,Calor,2.36
+2025-08-31,PROD-101,64,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Calor,5.17
+2025-08-31,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Calor,3.8
+2025-08-31,PROD-103,11,85.5,13,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Calor,9.23
+2025-08-31,PROD-104,20,10.5,63,Protector Solar FPS50,Salud y Belleza,Nivea,30,Calor,6.73
+2025-08-31,PROD-105,9,250.0,62,Cafetera Espresso,Hogar,DeLonghi,0,Calor,5.3
+2025-08-31,PROD-106,17,199.9,19,Silla Gamer,Muebles,SecretLab,0,Calor,8.33
+2025-09-01,PROD-101,29,899.99,196,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.68
+2025-09-01,PROD-102,53,120.0,193,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.31
+2025-09-01,PROD-103,11,85.5,112,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.61
+2025-09-01,PROD-104,4,15.0,59,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.16
+2025-09-01,PROD-105,8,250.0,54,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.39
+2025-09-01,PROD-106,14,199.9,179,Silla Gamer,Muebles,SecretLab,0,Templado,3.87
+2025-09-02,PROD-101,22,899.99,174,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.97
+2025-09-02,PROD-102,33,120.0,160,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.69
+2025-09-02,PROD-103,14,85.5,98,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.44
+2025-09-02,PROD-104,5,15.0,54,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.02
+2025-09-02,PROD-105,8,225.0,46,Cafetera Espresso,Hogar,DeLonghi,10,Templado,2.56
+2025-09-02,PROD-106,15,199.9,164,Silla Gamer,Muebles,SecretLab,0,Templado,8.29
+2025-09-03,PROD-101,17,899.99,157,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.73
+2025-09-03,PROD-102,33,120.0,127,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.83
+2025-09-03,PROD-103,10,85.5,88,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.83
+2025-09-03,PROD-104,4,15.0,50,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.85
+2025-09-03,PROD-105,6,250.0,40,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.8
+2025-09-03,PROD-106,14,199.9,150,Silla Gamer,Muebles,SecretLab,0,Templado,9.31
+2025-09-04,PROD-101,30,899.99,127,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.8
+2025-09-04,PROD-102,52,120.0,75,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.66
+2025-09-04,PROD-103,10,85.5,78,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.1
+2025-09-04,PROD-104,4,15.0,46,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.41
+2025-09-04,PROD-105,7,250.0,33,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.56
+2025-09-04,PROD-106,8,199.9,142,Silla Gamer,Muebles,SecretLab,0,Templado,5.03
+2025-09-05,PROD-101,16,899.99,111,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.26
+2025-09-05,PROD-102,57,120.0,18,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.16
+2025-09-05,PROD-103,11,85.5,67,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.72
+2025-09-05,PROD-104,5,15.0,41,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.35
+2025-09-05,PROD-105,7,250.0,26,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.48
+2025-09-05,PROD-106,14,199.9,128,Silla Gamer,Muebles,SecretLab,0,Templado,8.69
+2025-09-06,PROD-101,24,899.99,87,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.62
+2025-09-06,PROD-102,48,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.39
+2025-09-06,PROD-103,14,85.5,53,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.86
+2025-09-06,PROD-104,6,15.0,35,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.35
+2025-09-06,PROD-105,10,250.0,16,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.02
+2025-09-06,PROD-106,18,199.9,110,Silla Gamer,Muebles,SecretLab,0,Templado,4.57
+2025-09-07,PROD-101,43,899.99,44,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.73
+2025-09-07,PROD-102,45,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.06
+2025-09-07,PROD-103,14,85.5,39,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.85
+2025-09-07,PROD-104,4,15.0,31,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.08
+2025-09-07,PROD-105,8,250.0,8,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.27
+2025-09-07,PROD-106,19,199.9,91,Silla Gamer,Muebles,SecretLab,0,Templado,5.63
+2025-09-08,PROD-101,27,899.99,190,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.7
+2025-09-08,PROD-102,63,120.0,118,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.93
+2025-09-08,PROD-103,13,85.5,205,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.75
+2025-09-08,PROD-104,4,15.0,226,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.05
+2025-09-08,PROD-105,8,250.0,113,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.57
+2025-09-08,PROD-106,16,199.9,75,Silla Gamer,Muebles,SecretLab,0,Templado,2.07
+2025-09-09,PROD-101,26,899.99,164,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.56
+2025-09-09,PROD-102,30,120.0,88,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.76
+2025-09-09,PROD-103,9,85.5,196,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.82
+2025-09-09,PROD-104,4,15.0,222,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.07
+2025-09-09,PROD-105,10,200.0,103,Cafetera Espresso,Hogar,DeLonghi,20,Templado,2.95
+2025-09-09,PROD-106,17,199.9,58,Silla Gamer,Muebles,SecretLab,0,Templado,8.92
+2025-09-10,PROD-101,32,899.99,132,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.12
+2025-09-10,PROD-102,22,120.0,66,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.86
+2025-09-10,PROD-103,13,85.5,183,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.83
+2025-09-10,PROD-104,4,15.0,218,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.2
+2025-09-10,PROD-105,8,250.0,95,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.12
+2025-09-10,PROD-106,17,199.9,41,Silla Gamer,Muebles,SecretLab,0,Templado,3.97
+2025-09-11,PROD-101,17,899.99,115,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.47
+2025-09-11,PROD-102,28,120.0,38,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.08
+2025-09-11,PROD-103,11,85.5,172,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.63
+2025-09-11,PROD-104,5,15.0,213,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.09
+2025-09-11,PROD-105,11,250.0,84,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.03
+2025-09-11,PROD-106,12,199.9,29,Silla Gamer,Muebles,SecretLab,0,Templado,7.19
+2025-09-12,PROD-101,33,629.99,82,Smartphone Galaxy,Electrónica,Samsung,30,Templado,4.0
+2025-09-12,PROD-102,32,120.0,6,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.09
+2025-09-12,PROD-103,8,68.4,164,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Templado,9.09
+2025-09-12,PROD-104,4,15.0,209,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.77
+2025-09-12,PROD-105,8,250.0,76,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.02
+2025-09-12,PROD-106,13,199.9,16,Silla Gamer,Muebles,SecretLab,0,Templado,7.66
+2025-09-13,PROD-101,36,899.99,46,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.01
+2025-09-13,PROD-102,46,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.2
+2025-09-13,PROD-103,8,85.5,156,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.86
+2025-09-13,PROD-104,6,15.0,203,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.05
+2025-09-13,PROD-105,9,250.0,67,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.58
+2025-09-13,PROD-106,22,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,7.57
+2025-09-14,PROD-101,27,899.99,19,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.51
+2025-09-14,PROD-102,43,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.45
+2025-09-14,PROD-103,13,85.5,143,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.3
+2025-09-14,PROD-104,6,15.0,197,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.05
+2025-09-14,PROD-105,11,250.0,56,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.28
+2025-09-14,PROD-106,16,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,2.61
+2025-09-15,PROD-101,25,899.99,132,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.61
+2025-09-15,PROD-102,35,120.0,147,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.21
+2025-09-15,PROD-103,6,85.5,137,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.03
+2025-09-15,PROD-104,5,15.0,192,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.8
+2025-09-15,PROD-105,5,250.0,51,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.51
+2025-09-15,PROD-106,13,199.9,163,Silla Gamer,Muebles,SecretLab,0,Templado,4.02
+2025-09-16,PROD-101,18,899.99,114,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.2
+2025-09-16,PROD-102,41,120.0,106,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.59
+2025-09-16,PROD-103,9,85.5,128,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.84
+2025-09-16,PROD-104,6,15.0,186,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.85
+2025-09-16,PROD-105,7,250.0,44,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.8
+2025-09-16,PROD-106,14,199.9,149,Silla Gamer,Muebles,SecretLab,0,Templado,2.91
+2025-09-17,PROD-101,27,719.99,87,Smartphone Galaxy,Electrónica,Samsung,20,Templado,6.29
+2025-09-17,PROD-102,38,120.0,68,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.54
+2025-09-17,PROD-103,11,85.5,117,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.28
+2025-09-17,PROD-104,6,15.0,180,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.75
+2025-09-17,PROD-105,6,250.0,38,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.01
+2025-09-17,PROD-106,14,179.91,135,Silla Gamer,Muebles,SecretLab,10,Templado,6.61
+2025-09-18,PROD-101,30,899.99,57,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.27
+2025-09-18,PROD-102,42,120.0,26,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.51
+2025-09-18,PROD-103,9,85.5,108,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.8
+2025-09-18,PROD-104,5,15.0,175,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.88
+2025-09-18,PROD-105,7,250.0,31,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.57
+2025-09-18,PROD-106,12,199.9,123,Silla Gamer,Muebles,SecretLab,0,Templado,5.57
+2025-09-19,PROD-101,32,899.99,25,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.21
+2025-09-19,PROD-102,23,120.0,3,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.61
+2025-09-19,PROD-103,11,85.5,97,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.13
+2025-09-19,PROD-104,4,15.0,171,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.32
+2025-09-19,PROD-105,10,250.0,21,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.31
+2025-09-19,PROD-106,9,199.9,114,Silla Gamer,Muebles,SecretLab,0,Templado,5.02
+2025-09-20,PROD-101,37,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.99
+2025-09-20,PROD-102,58,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.57
+2025-09-20,PROD-103,13,85.5,84,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.06
+2025-09-20,PROD-104,7,15.0,164,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.32
+2025-09-20,PROD-105,10,250.0,11,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.88
+2025-09-20,PROD-106,19,199.9,95,Silla Gamer,Muebles,SecretLab,0,Templado,8.28
+2025-09-21,PROD-101,27,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.41
+2025-09-21,PROD-102,51,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.12
+2025-09-21,PROD-103,8,85.5,76,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.82
+2025-09-21,PROD-104,5,15.0,159,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.67
+2025-09-21,PROD-105,10,250.0,1,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.89
+2025-09-21,PROD-106,20,199.9,75,Silla Gamer,Muebles,SecretLab,0,Templado,8.55
+2025-09-22,PROD-101,23,899.99,170,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.42
+2025-09-22,PROD-102,45,120.0,106,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.64
+2025-09-22,PROD-103,6,85.5,70,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.73
+2025-09-22,PROD-104,5,15.0,154,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.56
+2025-09-22,PROD-105,5,250.0,167,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.99
+2025-09-22,PROD-106,14,199.9,61,Silla Gamer,Muebles,SecretLab,0,Templado,3.62
+2025-09-23,PROD-101,18,899.99,152,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.99
+2025-09-23,PROD-102,55,84.0,51,Zapatillas Running,Ropa y Calzado,Nike,30,Templado,7.45
+2025-09-23,PROD-103,11,85.5,59,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.71
+2025-09-23,PROD-104,6,15.0,148,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.64
+2025-09-23,PROD-105,6,250.0,161,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.75
+2025-09-23,PROD-106,12,199.9,49,Silla Gamer,Muebles,SecretLab,0,Templado,9.09
+2025-09-24,PROD-101,30,899.99,122,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.19
+2025-09-24,PROD-102,35,120.0,16,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.89
+2025-09-24,PROD-103,10,85.5,49,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.37
+2025-09-24,PROD-104,6,15.0,142,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.46
+2025-09-24,PROD-105,10,250.0,151,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.76
+2025-09-24,PROD-106,16,199.9,33,Silla Gamer,Muebles,SecretLab,0,Templado,9.68
+2025-09-25,PROD-101,24,899.99,98,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.67
+2025-09-25,PROD-102,20,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.53
+2025-09-25,PROD-103,11,85.5,38,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.03
+2025-09-25,PROD-104,4,15.0,138,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.77
+2025-09-25,PROD-105,7,250.0,144,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.32
+2025-09-25,PROD-106,15,139.93,18,Silla Gamer,Muebles,SecretLab,30,Templado,6.2
+2025-09-26,PROD-101,30,899.99,68,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.85
+2025-09-26,PROD-102,48,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.42
+2025-09-26,PROD-103,10,85.5,28,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.48
+2025-09-26,PROD-104,6,15.0,132,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.69
+2025-09-26,PROD-105,5,250.0,139,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.62
+2025-09-26,PROD-106,18,159.92,0,Silla Gamer,Muebles,SecretLab,20,Templado,3.01
+2025-09-27,PROD-101,37,809.99,31,Smartphone Galaxy,Electrónica,Samsung,10,Templado,3.36
+2025-09-27,PROD-102,39,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.2
+2025-09-27,PROD-103,10,85.5,18,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.9
+2025-09-27,PROD-104,6,15.0,126,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.88
+2025-09-27,PROD-105,8,250.0,131,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.9
+2025-09-27,PROD-106,17,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,5.61
+2025-09-28,PROD-101,25,899.99,6,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.66
+2025-09-28,PROD-102,42,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.17
+2025-09-28,PROD-103,15,85.5,3,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.53
+2025-09-28,PROD-104,4,15.0,122,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.15
+2025-09-28,PROD-105,11,250.0,120,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.78
+2025-09-28,PROD-106,20,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,6.29
+2025-09-29,PROD-101,32,719.99,125,Smartphone Galaxy,Electrónica,Samsung,20,Templado,4.06
+2025-09-29,PROD-102,38,120.0,162,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.82
+2025-09-29,PROD-103,9,85.5,131,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.52
+2025-09-29,PROD-104,5,13.5,117,Protector Solar FPS50,Salud y Belleza,Nivea,10,Templado,9.18
+2025-09-29,PROD-105,3,250.0,117,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.35
+2025-09-29,PROD-106,9,199.9,169,Silla Gamer,Muebles,SecretLab,0,Templado,7.83
+2025-09-30,PROD-101,30,899.99,95,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.57
+2025-09-30,PROD-102,44,120.0,118,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.52
+2025-09-30,PROD-103,8,85.5,123,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.94
+2025-09-30,PROD-104,6,15.0,111,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.31
+2025-09-30,PROD-105,8,250.0,109,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.43
+2025-09-30,PROD-106,17,199.9,152,Silla Gamer,Muebles,SecretLab,0,Templado,7.63
+2025-10-01,PROD-101,27,899.99,68,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.06
+2025-10-01,PROD-102,32,120.0,86,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.69
+2025-10-01,PROD-103,10,85.5,113,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.89
+2025-10-01,PROD-104,5,15.0,106,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.62
+2025-10-01,PROD-105,9,250.0,100,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.5
+2025-10-01,PROD-106,14,199.9,138,Silla Gamer,Muebles,SecretLab,0,Templado,4.05
+2025-10-02,PROD-101,25,899.99,43,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.37
+2025-10-02,PROD-102,36,120.0,50,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.12
+2025-10-02,PROD-103,12,85.5,101,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.82
+2025-10-02,PROD-104,4,15.0,102,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.96
+2025-10-02,PROD-105,7,250.0,93,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.15
+2025-10-02,PROD-106,18,199.9,120,Silla Gamer,Muebles,SecretLab,0,Templado,7.0
+2025-10-03,PROD-101,20,899.99,23,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.34
+2025-10-03,PROD-102,43,120.0,7,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.8
+2025-10-03,PROD-103,14,68.4,87,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Templado,6.6
+2025-10-03,PROD-104,3,15.0,99,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.42
+2025-10-03,PROD-105,10,250.0,83,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.63
+2025-10-03,PROD-106,16,199.9,104,Silla Gamer,Muebles,SecretLab,0,Templado,2.12
+2025-10-04,PROD-101,25,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.31
+2025-10-04,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.89
+2025-10-04,PROD-103,13,85.5,74,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.28
+2025-10-04,PROD-104,6,15.0,93,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.2
+2025-10-04,PROD-105,9,250.0,74,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.89
+2025-10-04,PROD-106,21,199.9,83,Silla Gamer,Muebles,SecretLab,0,Templado,7.11
+2025-10-05,PROD-101,28,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.61
+2025-10-05,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.4
+2025-10-05,PROD-103,11,85.5,63,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.82
+2025-10-05,PROD-104,6,15.0,87,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.45
+2025-10-05,PROD-105,9,250.0,65,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.69
+2025-10-05,PROD-106,17,199.9,66,Silla Gamer,Muebles,SecretLab,0,Templado,3.06
+2025-10-06,PROD-101,24,899.99,180,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.68
+2025-10-06,PROD-102,31,120.0,106,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.4
+2025-10-06,PROD-103,8,85.5,55,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.86
+2025-10-06,PROD-104,5,15.0,82,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.88
+2025-10-06,PROD-105,7,250.0,58,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.69
+2025-10-06,PROD-106,10,199.9,56,Silla Gamer,Muebles,SecretLab,0,Templado,2.87
+2025-10-07,PROD-101,17,899.99,163,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.74
+2025-10-07,PROD-102,55,120.0,51,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.15
+2025-10-07,PROD-103,10,85.5,45,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.2
+2025-10-07,PROD-104,5,15.0,77,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.23
+2025-10-07,PROD-105,5,250.0,53,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.52
+2025-10-07,PROD-106,14,199.9,42,Silla Gamer,Muebles,SecretLab,0,Templado,5.42
+2025-10-08,PROD-101,18,899.99,145,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.96
+2025-10-08,PROD-102,36,120.0,15,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.16
+2025-10-08,PROD-103,13,68.4,32,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Templado,2.89
+2025-10-08,PROD-104,5,15.0,72,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.79
+2025-10-08,PROD-105,9,200.0,44,Cafetera Espresso,Hogar,DeLonghi,20,Templado,3.05
+2025-10-08,PROD-106,15,199.9,27,Silla Gamer,Muebles,SecretLab,0,Templado,8.82
+2025-10-09,PROD-101,22,899.99,123,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.04
+2025-10-09,PROD-102,49,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Templado,5.39
+2025-10-09,PROD-103,10,85.5,22,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.47
+2025-10-09,PROD-104,3,15.0,69,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.44
+2025-10-09,PROD-105,8,250.0,36,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.12
+2025-10-09,PROD-106,19,199.9,8,Silla Gamer,Muebles,SecretLab,0,Templado,9.43
+2025-10-10,PROD-101,19,899.99,104,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.49
+2025-10-10,PROD-102,24,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.58
+2025-10-10,PROD-103,7,85.5,15,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.6
+2025-10-10,PROD-104,4,15.0,65,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.53
+2025-10-10,PROD-105,6,250.0,30,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.04
+2025-10-10,PROD-106,20,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,3.59
+2025-10-11,PROD-101,31,899.99,73,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.29
+2025-10-11,PROD-102,58,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.58
+2025-10-11,PROD-103,14,85.5,1,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.68
+2025-10-11,PROD-104,6,15.0,59,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.1
+2025-10-11,PROD-105,10,250.0,20,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.74
+2025-10-11,PROD-106,25,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,8.58
+2025-10-12,PROD-101,29,899.99,44,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.67
+2025-10-12,PROD-102,55,108.0,0,Zapatillas Running,Ropa y Calzado,Nike,10,Templado,6.62
+2025-10-12,PROD-103,11,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.79
+2025-10-12,PROD-104,6,15.0,53,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.51
+2025-10-12,PROD-105,12,250.0,8,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.07
+2025-10-12,PROD-106,23,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,7.27
+2025-10-13,PROD-101,28,899.99,131,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.62
+2025-10-13,PROD-102,54,120.0,127,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.81
+2025-10-13,PROD-103,7,85.5,175,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.43
+2025-10-13,PROD-104,5,15.0,183,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.93
+2025-10-13,PROD-105,8,250.0,104,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.39
+2025-10-13,PROD-106,13,199.9,165,Silla Gamer,Muebles,SecretLab,0,Templado,6.07
+2025-10-14,PROD-101,19,899.99,112,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.83
+2025-10-14,PROD-102,31,120.0,96,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.64
+2025-10-14,PROD-103,8,85.5,167,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.08
+2025-10-14,PROD-104,4,13.5,179,Protector Solar FPS50,Salud y Belleza,Nivea,10,Templado,6.71
+2025-10-14,PROD-105,9,250.0,95,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.99
+2025-10-14,PROD-106,13,199.9,152,Silla Gamer,Muebles,SecretLab,0,Templado,3.25
+2025-10-15,PROD-101,24,899.99,88,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.35
+2025-10-15,PROD-102,54,120.0,42,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.93
+2025-10-15,PROD-103,11,85.5,156,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.77
+2025-10-15,PROD-104,6,15.0,173,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.57
+2025-10-15,PROD-105,7,250.0,88,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.09
+2025-10-15,PROD-106,22,199.9,130,Silla Gamer,Muebles,SecretLab,0,Templado,7.06
+2025-10-16,PROD-101,27,899.99,61,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.34
+2025-10-16,PROD-102,41,120.0,1,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.84
+2025-10-16,PROD-103,9,85.5,147,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.49
+2025-10-16,PROD-104,5,15.0,168,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.88
+2025-10-16,PROD-105,10,250.0,78,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.29
+2025-10-16,PROD-106,15,179.91,115,Silla Gamer,Muebles,SecretLab,10,Templado,8.44
+2025-10-17,PROD-101,21,899.99,40,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.44
+2025-10-17,PROD-102,41,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.78
+2025-10-17,PROD-103,9,85.5,138,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.89
+2025-10-17,PROD-104,5,15.0,163,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.28
+2025-10-17,PROD-105,8,250.0,70,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.86
+2025-10-17,PROD-106,9,199.9,106,Silla Gamer,Muebles,SecretLab,0,Templado,8.19
+2025-10-18,PROD-101,41,809.99,0,Smartphone Galaxy,Electrónica,Samsung,10,Templado,4.6
+2025-10-18,PROD-102,72,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Templado,6.16
+2025-10-18,PROD-103,12,85.5,126,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.28
+2025-10-18,PROD-104,5,15.0,158,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.04
+2025-10-18,PROD-105,8,250.0,62,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.55
+2025-10-18,PROD-106,18,199.9,88,Silla Gamer,Muebles,SecretLab,0,Templado,3.6
+2025-10-19,PROD-101,23,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.4
+2025-10-19,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.32
+2025-10-19,PROD-103,13,85.5,113,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.45
+2025-10-19,PROD-104,7,15.0,151,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.82
+2025-10-19,PROD-105,7,250.0,55,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.47
+2025-10-19,PROD-106,22,199.9,66,Silla Gamer,Muebles,SecretLab,0,Templado,4.86
+2025-10-20,PROD-101,17,899.99,166,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.75
+2025-10-20,PROD-102,48,120.0,123,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.13
+2025-10-20,PROD-103,13,85.5,100,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.7
+2025-10-20,PROD-104,5,15.0,146,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.33
+2025-10-20,PROD-105,9,250.0,218,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.21
+2025-10-20,PROD-106,13,199.9,53,Silla Gamer,Muebles,SecretLab,0,Templado,5.07
+2025-10-21,PROD-101,19,899.99,147,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.27
+2025-10-21,PROD-102,55,120.0,68,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.55
+2025-10-21,PROD-103,11,85.5,89,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.25
+2025-10-21,PROD-104,6,15.0,140,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.68
+2025-10-21,PROD-105,7,250.0,211,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.68
+2025-10-21,PROD-106,13,199.9,40,Silla Gamer,Muebles,SecretLab,0,Templado,5.44
+2025-10-22,PROD-101,23,899.99,124,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.52
+2025-10-22,PROD-102,23,120.0,45,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.94
+2025-10-22,PROD-103,13,85.5,76,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.87
+2025-10-22,PROD-104,3,15.0,137,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.03
+2025-10-22,PROD-105,6,250.0,205,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.63
+2025-10-22,PROD-106,14,199.9,26,Silla Gamer,Muebles,SecretLab,0,Templado,3.1
+2025-10-23,PROD-101,21,899.99,103,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.48
+2025-10-23,PROD-102,32,84.0,13,Zapatillas Running,Ropa y Calzado,Nike,30,Templado,2.96
+2025-10-23,PROD-103,13,85.5,63,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.25
+2025-10-23,PROD-104,4,15.0,133,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.98
+2025-10-23,PROD-105,9,250.0,196,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.04
+2025-10-23,PROD-106,15,199.9,11,Silla Gamer,Muebles,SecretLab,0,Templado,3.69
+2025-10-24,PROD-101,25,719.99,78,Smartphone Galaxy,Electrónica,Samsung,20,Templado,3.64
+2025-10-24,PROD-102,54,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.36
+2025-10-24,PROD-103,8,85.5,55,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.38
+2025-10-24,PROD-104,4,15.0,129,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.77
+2025-10-24,PROD-105,9,250.0,187,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.34
+2025-10-24,PROD-106,16,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,2.56
+2025-10-25,PROD-101,37,899.99,41,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.74
+2025-10-25,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.9
+2025-10-25,PROD-103,12,85.5,43,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.44
+2025-10-25,PROD-104,5,15.0,124,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.83
+2025-10-25,PROD-105,10,250.0,177,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.61
+2025-10-25,PROD-106,19,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,9.79
+2025-10-26,PROD-101,29,899.99,12,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.27
+2025-10-26,PROD-102,33,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.23
+2025-10-26,PROD-103,12,85.5,31,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.3
+2025-10-26,PROD-104,6,15.0,118,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.23
+2025-10-26,PROD-105,14,250.0,163,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.43
+2025-10-26,PROD-106,20,199.9,0,Silla Gamer,Muebles,SecretLab,0,Templado,2.63
+2025-10-27,PROD-101,17,899.99,115,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.58
+2025-10-27,PROD-102,62,96.0,116,Zapatillas Running,Ropa y Calzado,Nike,20,Templado,8.16
+2025-10-27,PROD-103,12,85.5,150,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.39
+2025-10-27,PROD-104,4,15.0,114,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.58
+2025-10-27,PROD-105,8,250.0,155,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.1
+2025-10-27,PROD-106,13,199.9,102,Silla Gamer,Muebles,SecretLab,0,Templado,8.46
+2025-10-28,PROD-101,18,899.99,97,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.72
+2025-10-28,PROD-102,38,108.0,78,Zapatillas Running,Ropa y Calzado,Nike,10,Templado,8.36
+2025-10-28,PROD-103,11,85.5,139,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.74
+2025-10-28,PROD-104,5,15.0,109,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.69
+2025-10-28,PROD-105,10,250.0,145,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.9
+2025-10-28,PROD-106,13,199.9,89,Silla Gamer,Muebles,SecretLab,0,Templado,3.86
+2025-10-29,PROD-101,19,899.99,78,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.77
+2025-10-29,PROD-102,43,120.0,35,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.54
+2025-10-29,PROD-103,7,85.5,132,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.35
+2025-10-29,PROD-104,4,15.0,105,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.47
+2025-10-29,PROD-105,8,250.0,137,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.64
+2025-10-29,PROD-106,12,199.9,77,Silla Gamer,Muebles,SecretLab,0,Templado,3.95
+2025-10-30,PROD-101,31,629.99,47,Smartphone Galaxy,Electrónica,Samsung,30,Templado,9.7
+2025-10-30,PROD-102,26,120.0,9,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.19
+2025-10-30,PROD-103,10,85.5,122,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.62
+2025-10-30,PROD-104,5,15.0,100,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.01
+2025-10-30,PROD-105,7,250.0,130,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.89
+2025-10-30,PROD-106,13,199.9,64,Silla Gamer,Muebles,SecretLab,0,Templado,5.63
+2025-10-31,PROD-101,19,899.99,28,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.28
+2025-10-31,PROD-102,22,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.26
+2025-10-31,PROD-103,10,85.5,112,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.34
+2025-10-31,PROD-104,6,15.0,94,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.85
+2025-10-31,PROD-105,4,250.0,126,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.13
+2025-10-31,PROD-106,8,179.91,56,Silla Gamer,Muebles,SecretLab,10,Templado,4.28
+2025-11-01,PROD-101,61,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.76
+2025-11-01,PROD-102,58,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.54
+2025-11-01,PROD-103,30,85.5,82,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.27
+2025-11-01,PROD-104,7,15.0,87,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.47
+2025-11-01,PROD-105,30,250.0,96,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.21
+2025-11-01,PROD-106,21,199.9,35,Silla Gamer,Muebles,SecretLab,0,Templado,3.39
+2025-11-02,PROD-101,80,629.99,0,Smartphone Galaxy,Electrónica,Samsung,30,Templado,2.58
+2025-11-02,PROD-102,50,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.76
+2025-11-02,PROD-103,32,85.5,50,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.65
+2025-11-02,PROD-104,7,10.5,80,Protector Solar FPS50,Salud y Belleza,Nivea,30,Templado,5.84
+2025-11-02,PROD-105,29,250.0,67,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.94
+2025-11-02,PROD-106,27,139.93,8,Silla Gamer,Muebles,SecretLab,30,Templado,6.53
+2025-11-03,PROD-101,41,899.99,166,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.5
+2025-11-03,PROD-102,57,120.0,101,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.68
+2025-11-03,PROD-103,25,85.5,185,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.04
+2025-11-03,PROD-104,6,15.0,74,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.18
+2025-11-03,PROD-105,26,200.0,216,Cafetera Espresso,Hogar,DeLonghi,20,Templado,8.64
+2025-11-03,PROD-106,11,199.9,144,Silla Gamer,Muebles,SecretLab,0,Templado,7.88
+2025-11-04,PROD-101,41,899.99,125,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.11
+2025-11-04,PROD-102,32,120.0,69,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.97
+2025-11-04,PROD-103,23,85.5,162,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.66
+2025-11-04,PROD-104,4,15.0,70,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.57
+2025-11-04,PROD-105,23,250.0,193,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.69
+2025-11-04,PROD-106,18,159.92,126,Silla Gamer,Muebles,SecretLab,20,Templado,9.83
+2025-11-05,PROD-101,51,899.99,74,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.13
+2025-11-05,PROD-102,40,120.0,29,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.23
+2025-11-05,PROD-103,25,85.5,137,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.71
+2025-11-05,PROD-104,6,15.0,64,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.87
+2025-11-05,PROD-105,23,250.0,170,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.96
+2025-11-05,PROD-106,17,199.9,109,Silla Gamer,Muebles,SecretLab,0,Templado,9.53
+2025-11-06,PROD-101,61,629.99,13,Smartphone Galaxy,Electrónica,Samsung,30,Templado,9.65
+2025-11-06,PROD-102,60,96.0,0,Zapatillas Running,Ropa y Calzado,Nike,20,Templado,4.73
+2025-11-06,PROD-103,25,85.5,112,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.83
+2025-11-06,PROD-104,8,15.0,56,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.44
+2025-11-06,PROD-105,25,250.0,145,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.3
+2025-11-06,PROD-106,10,199.9,99,Silla Gamer,Muebles,SecretLab,0,Templado,3.53
+2025-11-07,PROD-101,53,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.43
+2025-11-07,PROD-102,26,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.81
+2025-11-07,PROD-103,23,85.5,89,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.34
+2025-11-07,PROD-104,5,15.0,51,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.11
+2025-11-07,PROD-105,24,250.0,121,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.7
+2025-11-07,PROD-106,15,199.9,84,Silla Gamer,Muebles,SecretLab,0,Templado,3.41
+2025-11-08,PROD-101,51,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.34
+2025-11-08,PROD-102,56,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.53
+2025-11-08,PROD-103,33,85.5,56,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.86
+2025-11-08,PROD-104,7,12.0,44,Protector Solar FPS50,Salud y Belleza,Nivea,20,Templado,2.62
+2025-11-08,PROD-105,39,200.0,82,Cafetera Espresso,Hogar,DeLonghi,20,Templado,7.26
+2025-11-08,PROD-106,16,199.9,68,Silla Gamer,Muebles,SecretLab,0,Templado,5.36
+2025-11-09,PROD-101,57,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.09
+2025-11-09,PROD-102,52,108.0,0,Zapatillas Running,Ropa y Calzado,Nike,10,Templado,5.94
+2025-11-09,PROD-103,30,85.5,26,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.46
+2025-11-09,PROD-104,6,13.5,38,Protector Solar FPS50,Salud y Belleza,Nivea,10,Templado,5.22
+2025-11-09,PROD-105,31,250.0,51,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.1
+2025-11-09,PROD-106,15,199.9,53,Silla Gamer,Muebles,SecretLab,0,Templado,7.53
+2025-11-10,PROD-101,40,899.99,140,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.07
+2025-11-10,PROD-102,29,120.0,166,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.56
+2025-11-10,PROD-103,21,85.5,164,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.56
+2025-11-10,PROD-104,7,10.5,132,Protector Solar FPS50,Salud y Belleza,Nivea,30,Templado,6.28
+2025-11-10,PROD-105,25,250.0,225,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.18
+2025-11-10,PROD-106,13,139.93,240,Silla Gamer,Muebles,SecretLab,30,Templado,7.78
+2025-11-11,PROD-101,53,899.99,87,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.72
+2025-11-11,PROD-102,38,120.0,128,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.13
+2025-11-11,PROD-103,27,85.5,137,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.87
+2025-11-11,PROD-104,6,10.5,126,Protector Solar FPS50,Salud y Belleza,Nivea,30,Templado,7.53
+2025-11-11,PROD-105,26,250.0,199,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.29
+2025-11-11,PROD-106,11,199.9,229,Silla Gamer,Muebles,SecretLab,0,Templado,2.55
+2025-11-12,PROD-101,46,899.99,41,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.63
+2025-11-12,PROD-102,46,120.0,82,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.21
+2025-11-12,PROD-103,27,85.5,110,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.91
+2025-11-12,PROD-104,3,15.0,123,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.06
+2025-11-12,PROD-105,23,250.0,176,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.82
+2025-11-12,PROD-106,16,199.9,213,Silla Gamer,Muebles,SecretLab,0,Templado,7.52
+2025-11-13,PROD-101,38,899.99,3,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.9
+2025-11-13,PROD-102,32,120.0,50,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.94
+2025-11-13,PROD-103,25,85.5,85,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.93
+2025-11-13,PROD-104,5,15.0,118,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.11
+2025-11-13,PROD-105,24,225.0,152,Cafetera Espresso,Hogar,DeLonghi,10,Templado,5.95
+2025-11-13,PROD-106,18,199.9,195,Silla Gamer,Muebles,SecretLab,0,Templado,2.51
+2025-11-14,PROD-101,51,719.99,0,Smartphone Galaxy,Electrónica,Samsung,20,Templado,8.87
+2025-11-14,PROD-102,51,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.5
+2025-11-14,PROD-103,23,85.5,62,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.54
+2025-11-14,PROD-104,5,15.0,113,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.24
+2025-11-14,PROD-105,25,250.0,127,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.55
+2025-11-14,PROD-106,15,199.9,180,Silla Gamer,Muebles,SecretLab,0,Templado,3.73
+2025-11-15,PROD-101,67,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.63
+2025-11-15,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.93
+2025-11-15,PROD-103,32,85.5,30,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.4
+2025-11-15,PROD-104,4,15.0,109,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.54
+2025-11-15,PROD-105,34,250.0,93,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.3
+2025-11-15,PROD-106,23,199.9,157,Silla Gamer,Muebles,SecretLab,0,Templado,3.15
+2025-11-16,PROD-101,58,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.71
+2025-11-16,PROD-102,35,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.67
+2025-11-16,PROD-103,30,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.28
+2025-11-16,PROD-104,5,15.0,104,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.59
+2025-11-16,PROD-105,31,250.0,62,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.35
+2025-11-16,PROD-106,19,199.9,138,Silla Gamer,Muebles,SecretLab,0,Templado,8.22
+2025-11-17,PROD-101,44,899.99,163,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.13
+2025-11-17,PROD-102,49,120.0,200,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.28
+2025-11-17,PROD-103,25,85.5,181,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.19
+2025-11-17,PROD-104,6,15.0,98,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.27
+2025-11-17,PROD-105,26,250.0,227,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.13
+2025-11-17,PROD-106,15,199.9,123,Silla Gamer,Muebles,SecretLab,0,Templado,3.76
+2025-11-18,PROD-101,44,899.99,119,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.39
+2025-11-18,PROD-102,25,120.0,175,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.5
+2025-11-18,PROD-103,23,85.5,158,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.2
+2025-11-18,PROD-104,6,15.0,92,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.99
+2025-11-18,PROD-105,24,250.0,203,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.43
+2025-11-18,PROD-106,12,199.9,111,Silla Gamer,Muebles,SecretLab,0,Templado,2.74
+2025-11-19,PROD-101,44,899.99,75,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.42
+2025-11-19,PROD-102,57,120.0,118,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.05
+2025-11-19,PROD-103,24,85.5,134,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,2.62
+2025-11-19,PROD-104,7,15.0,85,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.73
+2025-11-19,PROD-105,25,250.0,178,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.49
+2025-11-19,PROD-106,9,199.9,102,Silla Gamer,Muebles,SecretLab,0,Templado,4.34
+2025-11-20,PROD-101,65,629.99,10,Smartphone Galaxy,Electrónica,Samsung,30,Templado,8.55
+2025-11-20,PROD-102,45,120.0,73,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.43
+2025-11-20,PROD-103,25,85.5,109,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.94
+2025-11-20,PROD-104,4,15.0,81,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.22
+2025-11-20,PROD-105,24,250.0,154,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.49
+2025-11-20,PROD-106,17,199.9,85,Silla Gamer,Muebles,SecretLab,0,Templado,5.07
+2025-11-21,PROD-101,37,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,7.11
+2025-11-21,PROD-102,38,108.0,35,Zapatillas Running,Ropa y Calzado,Nike,10,Templado,2.4
+2025-11-21,PROD-103,21,85.5,88,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.13
+2025-11-21,PROD-104,4,15.0,77,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.19
+2025-11-21,PROD-105,22,250.0,132,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.35
+2025-11-21,PROD-106,15,199.9,70,Silla Gamer,Muebles,SecretLab,0,Templado,7.08
+2025-11-22,PROD-101,56,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.77
+2025-11-22,PROD-102,46,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.31
+2025-11-22,PROD-103,30,76.95,58,Chaqueta Invierno,Ropa y Calzado,NorthFace,10,Templado,7.64
+2025-11-22,PROD-104,6,15.0,71,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.4
+2025-11-22,PROD-105,29,250.0,103,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.81
+2025-11-22,PROD-106,19,199.9,51,Silla Gamer,Muebles,SecretLab,0,Templado,5.99
+2025-11-23,PROD-101,58,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.25
+2025-11-23,PROD-102,36,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,7.2
+2025-11-23,PROD-103,38,68.4,20,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Templado,5.27
+2025-11-23,PROD-104,7,15.0,64,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.52
+2025-11-23,PROD-105,34,250.0,69,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.04
+2025-11-23,PROD-106,23,179.91,28,Silla Gamer,Muebles,SecretLab,10,Templado,3.89
+2025-11-24,PROD-101,33,899.99,138,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.98
+2025-11-24,PROD-102,30,120.0,176,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.85
+2025-11-24,PROD-103,25,85.5,172,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.32
+2025-11-24,PROD-104,3,15.0,61,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.63
+2025-11-24,PROD-105,25,250.0,187,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.66
+2025-11-24,PROD-106,15,159.92,115,Silla Gamer,Muebles,SecretLab,20,Templado,2.52
+2025-11-25,PROD-101,47,899.99,91,Smartphone Galaxy,Electrónica,Samsung,0,Templado,4.46
+2025-11-25,PROD-102,37,120.0,139,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.31
+2025-11-25,PROD-103,22,85.5,150,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.23
+2025-11-25,PROD-104,5,15.0,56,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.55
+2025-11-25,PROD-105,21,250.0,166,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.15
+2025-11-25,PROD-106,14,199.9,101,Silla Gamer,Muebles,SecretLab,0,Templado,4.28
+2025-11-26,PROD-101,45,899.99,46,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.8
+2025-11-26,PROD-102,31,120.0,108,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.63
+2025-11-26,PROD-103,26,85.5,124,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,8.16
+2025-11-26,PROD-104,6,15.0,50,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.83
+2025-11-26,PROD-105,26,250.0,140,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.74
+2025-11-26,PROD-106,15,199.9,86,Silla Gamer,Muebles,SecretLab,0,Templado,9.46
+2025-11-27,PROD-101,63,629.99,0,Smartphone Galaxy,Electrónica,Samsung,30,Templado,7.6
+2025-11-27,PROD-102,42,120.0,66,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.13
+2025-11-27,PROD-103,28,85.5,96,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.13
+2025-11-27,PROD-104,6,15.0,44,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.13
+2025-11-27,PROD-105,22,250.0,118,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.2
+2025-11-27,PROD-106,14,199.9,72,Silla Gamer,Muebles,SecretLab,0,Templado,6.54
+2025-11-28,PROD-101,42,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.92
+2025-11-28,PROD-102,31,120.0,35,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.12
+2025-11-28,PROD-103,26,85.5,70,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.99
+2025-11-28,PROD-104,4,12.0,40,Protector Solar FPS50,Salud y Belleza,Nivea,20,Templado,8.46
+2025-11-28,PROD-105,21,250.0,97,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.35
+2025-11-28,PROD-106,17,199.9,55,Silla Gamer,Muebles,SecretLab,0,Templado,2.23
+2025-11-29,PROD-101,63,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.27
+2025-11-29,PROD-102,56,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.59
+2025-11-29,PROD-103,31,85.5,39,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.49
+2025-11-29,PROD-104,7,15.0,33,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.5
+2025-11-29,PROD-105,29,250.0,68,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.41
+2025-11-29,PROD-106,27,199.9,28,Silla Gamer,Muebles,SecretLab,0,Templado,5.77
+2025-11-30,PROD-101,65,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.54
+2025-11-30,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.34
+2025-11-30,PROD-103,35,85.5,4,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.83
+2025-11-30,PROD-104,7,15.0,26,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.21
+2025-11-30,PROD-105,31,250.0,37,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.32
+2025-11-30,PROD-106,12,199.9,16,Silla Gamer,Muebles,SecretLab,0,Templado,6.82
+2025-12-01,PROD-101,56,719.99,146,Smartphone Galaxy,Electrónica,Samsung,20,Frío,2.86
+2025-12-01,PROD-102,25,108.0,178,Zapatillas Running,Ropa y Calzado,Nike,10,Frío,9.81
+2025-12-01,PROD-103,27,85.5,190,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.28
+2025-12-01,PROD-104,5,15.0,169,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.64
+2025-12-01,PROD-105,22,250.0,123,Cafetera Espresso,Hogar,DeLonghi,0,Frío,9.63
+2025-12-01,PROD-106,18,199.9,111,Silla Gamer,Muebles,SecretLab,0,Frío,2.37
+2025-12-02,PROD-101,45,899.99,101,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.68
+2025-12-02,PROD-102,44,120.0,134,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.27
+2025-12-02,PROD-103,26,85.5,164,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.59
+2025-12-02,PROD-104,3,10.5,166,Protector Solar FPS50,Salud y Belleza,Nivea,30,Frío,9.84
+2025-12-02,PROD-105,24,225.0,99,Cafetera Espresso,Hogar,DeLonghi,10,Frío,9.21
+2025-12-02,PROD-106,14,179.91,97,Silla Gamer,Muebles,SecretLab,10,Frío,7.87
+2025-12-03,PROD-101,38,899.99,63,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.8
+2025-12-03,PROD-102,52,120.0,82,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.65
+2025-12-03,PROD-103,24,85.5,140,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.4
+2025-12-03,PROD-104,4,15.0,162,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.86
+2025-12-03,PROD-105,27,200.0,72,Cafetera Espresso,Hogar,DeLonghi,20,Frío,6.69
+2025-12-03,PROD-106,19,139.93,78,Silla Gamer,Muebles,SecretLab,30,Frío,3.74
+2025-12-04,PROD-101,40,899.99,23,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.37
+2025-12-04,PROD-102,39,120.0,43,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.46
+2025-12-04,PROD-103,24,85.5,116,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.84
+2025-12-04,PROD-104,6,15.0,156,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.66
+2025-12-04,PROD-105,21,250.0,51,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.92
+2025-12-04,PROD-106,17,199.9,61,Silla Gamer,Muebles,SecretLab,0,Frío,6.34
+2025-12-05,PROD-101,47,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.29
+2025-12-05,PROD-102,55,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.41
+2025-12-05,PROD-103,26,85.5,90,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,9.31
+2025-12-05,PROD-104,4,15.0,152,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.42
+2025-12-05,PROD-105,21,250.0,30,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.75
+2025-12-05,PROD-106,16,199.9,45,Silla Gamer,Muebles,SecretLab,0,Frío,2.67
+2025-12-06,PROD-101,62,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.99
+2025-12-06,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.57
+2025-12-06,PROD-103,34,85.5,56,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.6
+2025-12-06,PROD-104,5,15.0,147,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.99
+2025-12-06,PROD-105,32,250.0,0,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.14
+2025-12-06,PROD-106,20,199.9,25,Silla Gamer,Muebles,SecretLab,0,Frío,7.82
+2025-12-07,PROD-101,54,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.96
+2025-12-07,PROD-102,60,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.27
+2025-12-07,PROD-103,32,85.5,24,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.6
+2025-12-07,PROD-104,5,13.5,142,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,6.8
+2025-12-07,PROD-105,32,250.0,0,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.46
+2025-12-07,PROD-106,20,199.9,5,Silla Gamer,Muebles,SecretLab,0,Frío,8.55
+2025-12-08,PROD-101,33,899.99,124,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.42
+2025-12-08,PROD-102,52,84.0,147,Zapatillas Running,Ropa y Calzado,Nike,30,Frío,9.16
+2025-12-08,PROD-103,30,68.4,126,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Frío,8.74
+2025-12-08,PROD-104,4,15.0,138,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.39
+2025-12-08,PROD-105,27,200.0,115,Cafetera Espresso,Hogar,DeLonghi,20,Frío,8.86
+2025-12-08,PROD-106,15,199.9,172,Silla Gamer,Muebles,SecretLab,0,Frío,2.66
+2025-12-09,PROD-101,40,899.99,84,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.74
+2025-12-09,PROD-102,43,120.0,104,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.28
+2025-12-09,PROD-103,27,85.5,99,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.5
+2025-12-09,PROD-104,5,15.0,133,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,7.21
+2025-12-09,PROD-105,24,250.0,91,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.43
+2025-12-09,PROD-106,18,199.9,154,Silla Gamer,Muebles,SecretLab,0,Frío,8.7
+2025-12-10,PROD-101,40,899.99,44,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.51
+2025-12-10,PROD-102,44,120.0,60,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.64
+2025-12-10,PROD-103,26,85.5,73,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.45
+2025-12-10,PROD-104,4,13.5,129,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,3.09
+2025-12-10,PROD-105,22,250.0,69,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.58
+2025-12-10,PROD-106,15,199.9,139,Silla Gamer,Muebles,SecretLab,0,Frío,5.37
+2025-12-11,PROD-101,37,899.99,7,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.17
+2025-12-11,PROD-102,40,120.0,20,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.2
+2025-12-11,PROD-103,28,68.4,45,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Frío,8.2
+2025-12-11,PROD-104,4,13.5,125,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,8.4
+2025-12-11,PROD-105,22,250.0,47,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.78
+2025-12-11,PROD-106,11,199.9,128,Silla Gamer,Muebles,SecretLab,0,Frío,6.28
+2025-12-12,PROD-101,45,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,6.28
+2025-12-12,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.49
+2025-12-12,PROD-103,23,85.5,22,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.56
+2025-12-12,PROD-104,5,15.0,120,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,5.5
+2025-12-12,PROD-105,24,250.0,23,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.07
+2025-12-12,PROD-106,16,199.9,112,Silla Gamer,Muebles,SecretLab,0,Frío,4.75
+2025-12-13,PROD-101,54,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.66
+2025-12-13,PROD-102,40,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.98
+2025-12-13,PROD-103,32,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.28
+2025-12-13,PROD-104,6,15.0,114,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.3
+2025-12-13,PROD-105,31,225.0,0,Cafetera Espresso,Hogar,DeLonghi,10,Frío,6.0
+2025-12-13,PROD-106,21,199.9,91,Silla Gamer,Muebles,SecretLab,0,Frío,9.94
+2025-12-14,PROD-101,61,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.74
+2025-12-14,PROD-102,42,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.31
+2025-12-14,PROD-103,34,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.85
+2025-12-14,PROD-104,8,15.0,106,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.03
+2025-12-14,PROD-105,32,250.0,0,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.72
+2025-12-14,PROD-106,18,199.9,73,Silla Gamer,Muebles,SecretLab,0,Frío,5.64
+2025-12-15,PROD-101,50,719.99,159,Smartphone Galaxy,Electrónica,Samsung,20,Frío,8.37
+2025-12-15,PROD-102,29,120.0,185,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.08
+2025-12-15,PROD-103,26,85.5,149,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.4
+2025-12-15,PROD-104,5,15.0,101,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.03
+2025-12-15,PROD-105,24,250.0,115,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.62
+2025-12-15,PROD-106,8,159.92,65,Silla Gamer,Muebles,SecretLab,20,Frío,7.46
+2025-12-16,PROD-101,45,899.99,114,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.12
+2025-12-16,PROD-102,46,120.0,139,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.66
+2025-12-16,PROD-103,25,85.5,124,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.18
+2025-12-16,PROD-104,4,15.0,97,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.34
+2025-12-16,PROD-105,28,175.0,87,Cafetera Espresso,Hogar,DeLonghi,30,Frío,8.6
+2025-12-16,PROD-106,19,179.91,46,Silla Gamer,Muebles,SecretLab,10,Frío,8.02
+2025-12-17,PROD-101,46,899.99,68,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.75
+2025-12-17,PROD-102,38,120.0,101,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.72
+2025-12-17,PROD-103,23,76.95,101,Chaqueta Invierno,Ropa y Calzado,NorthFace,10,Frío,2.52
+2025-12-17,PROD-104,5,13.5,92,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,2.52
+2025-12-17,PROD-105,24,250.0,63,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.18
+2025-12-17,PROD-106,15,199.9,31,Silla Gamer,Muebles,SecretLab,0,Frío,6.53
+2025-12-18,PROD-101,41,809.99,27,Smartphone Galaxy,Electrónica,Samsung,10,Frío,2.54
+2025-12-18,PROD-102,38,108.0,63,Zapatillas Running,Ropa y Calzado,Nike,10,Frío,8.78
+2025-12-18,PROD-103,25,85.5,76,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.17
+2025-12-18,PROD-104,4,15.0,88,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,7.91
+2025-12-18,PROD-105,23,250.0,40,Cafetera Espresso,Hogar,DeLonghi,0,Frío,8.36
+2025-12-18,PROD-106,16,199.9,15,Silla Gamer,Muebles,SecretLab,0,Frío,4.99
+2025-12-19,PROD-101,39,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.04
+2025-12-19,PROD-102,39,120.0,24,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.7
+2025-12-19,PROD-103,23,85.5,53,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.57
+2025-12-19,PROD-104,5,15.0,83,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.58
+2025-12-19,PROD-105,26,250.0,14,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.08
+2025-12-19,PROD-106,13,199.9,2,Silla Gamer,Muebles,SecretLab,0,Frío,8.04
+2025-12-20,PROD-101,55,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.01
+2025-12-20,PROD-102,54,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.93
+2025-12-20,PROD-103,34,85.5,19,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.93
+2025-12-20,PROD-104,6,15.0,77,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.56
+2025-12-20,PROD-105,27,250.0,0,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.22
+2025-12-20,PROD-106,18,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,3.98
+2025-12-21,PROD-101,57,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.45
+2025-12-21,PROD-102,37,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.75
+2025-12-21,PROD-103,33,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.59
+2025-12-21,PROD-104,6,15.0,71,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.7
+2025-12-21,PROD-105,33,250.0,0,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.9
+2025-12-21,PROD-106,12,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,8.64
+2025-12-22,PROD-101,50,899.99,140,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.13
+2025-12-22,PROD-102,41,120.0,157,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.23
+2025-12-22,PROD-103,26,85.5,153,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.88
+2025-12-22,PROD-104,3,15.0,68,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.73
+2025-12-22,PROD-105,23,250.0,159,Cafetera Espresso,Hogar,DeLonghi,0,Frío,8.06
+2025-12-22,PROD-106,16,199.9,170,Silla Gamer,Muebles,SecretLab,0,Frío,7.66
+2025-12-23,PROD-101,44,899.99,96,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.45
+2025-12-23,PROD-102,36,120.0,121,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.46
+2025-12-23,PROD-103,27,85.5,126,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.25
+2025-12-23,PROD-104,5,15.0,63,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.15
+2025-12-23,PROD-105,28,200.0,131,Cafetera Espresso,Hogar,DeLonghi,20,Frío,3.46
+2025-12-23,PROD-106,14,199.9,156,Silla Gamer,Muebles,SecretLab,0,Frío,4.96
+2025-12-24,PROD-101,37,899.99,59,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.92
+2025-12-24,PROD-102,37,120.0,84,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.15
+2025-12-24,PROD-103,24,85.5,102,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.99
+2025-12-24,PROD-104,5,15.0,58,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.43
+2025-12-24,PROD-105,23,250.0,108,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.06
+2025-12-24,PROD-106,12,199.9,144,Silla Gamer,Muebles,SecretLab,0,Frío,7.57
+2025-12-25,PROD-101,39,899.99,20,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.47
+2025-12-25,PROD-102,44,120.0,40,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.93
+2025-12-25,PROD-103,26,85.5,76,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.9
+2025-12-25,PROD-104,3,12.0,55,Protector Solar FPS50,Salud y Belleza,Nivea,20,Frío,2.69
+2025-12-25,PROD-105,23,250.0,85,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.93
+2025-12-25,PROD-106,19,199.9,125,Silla Gamer,Muebles,SecretLab,0,Frío,6.39
+2025-12-26,PROD-101,48,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.3
+2025-12-26,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.08
+2025-12-26,PROD-103,22,85.5,54,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.1
+2025-12-26,PROD-104,4,15.0,51,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.96
+2025-12-26,PROD-105,25,225.0,60,Cafetera Espresso,Hogar,DeLonghi,10,Frío,3.89
+2025-12-26,PROD-106,13,199.9,112,Silla Gamer,Muebles,SecretLab,0,Frío,5.97
+2025-12-27,PROD-101,54,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.09
+2025-12-27,PROD-102,72,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Frío,3.01
+2025-12-27,PROD-103,33,85.5,21,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.39
+2025-12-27,PROD-104,7,15.0,44,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.03
+2025-12-27,PROD-105,31,250.0,29,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.25
+2025-12-27,PROD-106,13,199.9,99,Silla Gamer,Muebles,SecretLab,0,Frío,4.13
+2025-12-28,PROD-101,57,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,6.34
+2025-12-28,PROD-102,34,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.77
+2025-12-28,PROD-103,31,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.02
+2025-12-28,PROD-104,9,10.5,35,Protector Solar FPS50,Salud y Belleza,Nivea,30,Frío,4.21
+2025-12-28,PROD-105,32,250.0,0,Cafetera Espresso,Hogar,DeLonghi,0,Frío,9.21
+2025-12-28,PROD-106,14,199.9,85,Silla Gamer,Muebles,SecretLab,0,Frío,7.15
+2025-12-29,PROD-101,40,899.99,119,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.19
+2025-12-29,PROD-102,37,120.0,170,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.88
+2025-12-29,PROD-103,23,85.5,126,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.5
+2025-12-29,PROD-104,3,15.0,174,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.87
+2025-12-29,PROD-105,25,250.0,189,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.85
+2025-12-29,PROD-106,15,199.9,70,Silla Gamer,Muebles,SecretLab,0,Frío,9.46
+2025-12-30,PROD-101,51,899.99,68,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.19
+2025-12-30,PROD-102,38,120.0,132,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.87
+2025-12-30,PROD-103,22,85.5,104,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.49
+2025-12-30,PROD-104,4,15.0,170,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.29
+2025-12-30,PROD-105,27,250.0,162,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.63
+2025-12-30,PROD-106,18,199.9,52,Silla Gamer,Muebles,SecretLab,0,Frío,8.67
+2025-12-31,PROD-101,47,899.99,21,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.58
+2025-12-31,PROD-102,37,120.0,95,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.88
+2025-12-31,PROD-103,23,85.5,81,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.15
+2025-12-31,PROD-104,3,15.0,167,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.58
+2025-12-31,PROD-105,22,250.0,140,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.01
+2025-12-31,PROD-106,20,199.9,32,Silla Gamer,Muebles,SecretLab,0,Frío,5.84
+2026-01-01,PROD-101,23,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.99
+2026-01-01,PROD-102,47,120.0,48,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.71
+2026-01-01,PROD-103,27,85.5,54,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.14
+2026-01-01,PROD-104,3,15.0,164,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,5.58
+2026-01-01,PROD-105,7,250.0,133,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.22
+2026-01-01,PROD-106,16,199.9,16,Silla Gamer,Muebles,SecretLab,0,Frío,3.23
+2026-01-02,PROD-101,27,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.71
+2026-01-02,PROD-102,42,120.0,6,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.63
+2026-01-02,PROD-103,24,85.5,30,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.41
+2026-01-02,PROD-104,5,15.0,159,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.23
+2026-01-02,PROD-105,8,250.0,125,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.13
+2026-01-02,PROD-106,18,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,9.41
+2026-01-03,PROD-101,38,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.93
+2026-01-03,PROD-102,61,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.08
+2026-01-03,PROD-103,32,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.5
+2026-01-03,PROD-104,8,15.0,151,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,5.06
+2026-01-03,PROD-105,15,200.0,110,Cafetera Espresso,Hogar,DeLonghi,20,Frío,8.53
+2026-01-03,PROD-106,15,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,3.94
+2026-01-04,PROD-101,37,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,6.87
+2026-01-04,PROD-102,57,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.26
+2026-01-04,PROD-103,27,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.69
+2026-01-04,PROD-104,8,15.0,143,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.93
+2026-01-04,PROD-105,10,250.0,100,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.03
+2026-01-04,PROD-106,19,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,8.77
+2026-01-05,PROD-101,31,899.99,185,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.5
+2026-01-05,PROD-102,34,120.0,148,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.61
+2026-01-05,PROD-103,26,85.5,168,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,9.5
+2026-01-05,PROD-104,4,13.5,139,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,3.86
+2026-01-05,PROD-105,6,250.0,94,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.06
+2026-01-05,PROD-106,10,199.9,145,Silla Gamer,Muebles,SecretLab,0,Frío,3.51
+2026-01-06,PROD-101,22,899.99,163,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.27
+2026-01-06,PROD-102,44,120.0,104,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.47
+2026-01-06,PROD-103,28,59.85,140,Chaqueta Invierno,Ropa y Calzado,NorthFace,30,Frío,3.88
+2026-01-06,PROD-104,5,15.0,134,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.08
+2026-01-06,PROD-105,8,250.0,86,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.28
+2026-01-06,PROD-106,15,199.9,130,Silla Gamer,Muebles,SecretLab,0,Frío,3.84
+2026-01-07,PROD-101,24,899.99,139,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.59
+2026-01-07,PROD-102,33,120.0,71,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.98
+2026-01-07,PROD-103,22,85.5,118,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.79
+2026-01-07,PROD-104,4,15.0,130,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.37
+2026-01-07,PROD-105,4,250.0,82,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.51
+2026-01-07,PROD-106,7,199.9,123,Silla Gamer,Muebles,SecretLab,0,Frío,3.45
+2026-01-08,PROD-101,24,899.99,115,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.68
+2026-01-08,PROD-102,37,120.0,34,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.97
+2026-01-08,PROD-103,24,85.5,94,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.91
+2026-01-08,PROD-104,5,15.0,125,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.35
+2026-01-08,PROD-105,7,250.0,75,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.39
+2026-01-08,PROD-106,15,199.9,108,Silla Gamer,Muebles,SecretLab,0,Frío,5.62
+2026-01-09,PROD-101,28,899.99,87,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.41
+2026-01-09,PROD-102,53,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.15
+2026-01-09,PROD-103,22,85.5,72,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.78
+2026-01-09,PROD-104,4,15.0,121,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.64
+2026-01-09,PROD-105,6,250.0,69,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.55
+2026-01-09,PROD-106,14,199.9,94,Silla Gamer,Muebles,SecretLab,0,Frío,3.83
+2026-01-10,PROD-101,29,899.99,58,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.96
+2026-01-10,PROD-102,54,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.25
+2026-01-10,PROD-103,34,85.5,38,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.25
+2026-01-10,PROD-104,7,15.0,114,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,7.92
+2026-01-10,PROD-105,8,250.0,61,Cafetera Espresso,Hogar,DeLonghi,0,Frío,9.72
+2026-01-10,PROD-106,15,199.9,79,Silla Gamer,Muebles,SecretLab,0,Frío,4.03
+2026-01-11,PROD-101,24,899.99,34,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.05
+2026-01-11,PROD-102,47,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.8
+2026-01-11,PROD-103,32,85.5,6,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.88
+2026-01-11,PROD-104,7,15.0,107,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.61
+2026-01-11,PROD-105,12,200.0,49,Cafetera Espresso,Hogar,DeLonghi,20,Frío,4.74
+2026-01-11,PROD-106,23,199.9,56,Silla Gamer,Muebles,SecretLab,0,Frío,8.48
+2026-01-12,PROD-101,26,899.99,208,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.73
+2026-01-12,PROD-102,43,96.0,172,Zapatillas Running,Ropa y Calzado,Nike,20,Frío,9.47
+2026-01-12,PROD-103,21,85.5,200,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.09
+2026-01-12,PROD-104,5,15.0,102,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.93
+2026-01-12,PROD-105,9,250.0,199,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.94
+2026-01-12,PROD-106,13,199.9,185,Silla Gamer,Muebles,SecretLab,0,Frío,5.55
+2026-01-13,PROD-101,20,899.99,188,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.99
+2026-01-13,PROD-102,45,120.0,127,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.76
+2026-01-13,PROD-103,25,85.5,175,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.36
+2026-01-13,PROD-104,5,15.0,97,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.63
+2026-01-13,PROD-105,10,250.0,189,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.56
+2026-01-13,PROD-106,13,199.9,172,Silla Gamer,Muebles,SecretLab,0,Frío,8.96
+2026-01-14,PROD-101,29,899.99,159,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.05
+2026-01-14,PROD-102,50,120.0,77,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.17
+2026-01-14,PROD-103,25,85.5,150,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.34
+2026-01-14,PROD-104,5,15.0,92,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.92
+2026-01-14,PROD-105,8,250.0,181,Cafetera Espresso,Hogar,DeLonghi,0,Frío,8.82
+2026-01-14,PROD-106,15,199.9,157,Silla Gamer,Muebles,SecretLab,0,Frío,9.45
+2026-01-15,PROD-101,33,719.99,126,Smartphone Galaxy,Electrónica,Samsung,20,Frío,3.1
+2026-01-15,PROD-102,42,120.0,35,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.03
+2026-01-15,PROD-103,22,85.5,128,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.88
+2026-01-15,PROD-104,4,15.0,88,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.78
+2026-01-15,PROD-105,6,250.0,175,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.2
+2026-01-15,PROD-106,13,199.9,144,Silla Gamer,Muebles,SecretLab,0,Frío,3.95
+2026-01-16,PROD-101,19,899.99,107,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.14
+2026-01-16,PROD-102,46,96.0,0,Zapatillas Running,Ropa y Calzado,Nike,20,Frío,5.01
+2026-01-16,PROD-103,27,85.5,101,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.27
+2026-01-16,PROD-104,5,15.0,83,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.37
+2026-01-16,PROD-105,8,250.0,167,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.54
+2026-01-16,PROD-106,14,199.9,130,Silla Gamer,Muebles,SecretLab,0,Frío,3.81
+2026-01-17,PROD-101,22,899.99,85,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.69
+2026-01-17,PROD-102,54,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.24
+2026-01-17,PROD-103,30,85.5,71,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.01
+2026-01-17,PROD-104,6,15.0,77,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.32
+2026-01-17,PROD-105,13,250.0,154,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.74
+2026-01-17,PROD-106,20,199.9,110,Silla Gamer,Muebles,SecretLab,0,Frío,6.89
+2026-01-18,PROD-101,36,899.99,49,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.85
+2026-01-18,PROD-102,43,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.5
+2026-01-18,PROD-103,30,85.5,41,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.67
+2026-01-18,PROD-104,5,15.0,72,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.64
+2026-01-18,PROD-105,7,250.0,147,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.87
+2026-01-18,PROD-106,19,199.9,91,Silla Gamer,Muebles,SecretLab,0,Frío,3.62
+2026-01-19,PROD-101,24,899.99,193,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.8
+2026-01-19,PROD-102,39,120.0,111,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.91
+2026-01-19,PROD-103,22,85.5,206,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.88
+2026-01-19,PROD-104,6,10.5,66,Protector Solar FPS50,Salud y Belleza,Nivea,30,Frío,8.03
+2026-01-19,PROD-105,7,250.0,140,Cafetera Espresso,Hogar,DeLonghi,0,Frío,8.52
+2026-01-19,PROD-106,11,199.9,80,Silla Gamer,Muebles,SecretLab,0,Frío,7.8
+2026-01-20,PROD-101,22,899.99,171,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.39
+2026-01-20,PROD-102,33,120.0,78,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.02
+2026-01-20,PROD-103,25,85.5,181,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.0
+2026-01-20,PROD-104,6,15.0,60,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.72
+2026-01-20,PROD-105,7,250.0,133,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.49
+2026-01-20,PROD-106,14,199.9,66,Silla Gamer,Muebles,SecretLab,0,Frío,7.86
+2026-01-21,PROD-101,26,899.99,145,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.36
+2026-01-21,PROD-102,33,120.0,45,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.88
+2026-01-21,PROD-103,24,85.5,157,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.9
+2026-01-21,PROD-104,6,15.0,54,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.74
+2026-01-21,PROD-105,9,250.0,124,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.4
+2026-01-21,PROD-106,14,199.9,52,Silla Gamer,Muebles,SecretLab,0,Frío,9.42
+2026-01-22,PROD-101,12,899.99,133,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.25
+2026-01-22,PROD-102,36,120.0,9,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.37
+2026-01-22,PROD-103,30,85.5,127,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.88
+2026-01-22,PROD-104,6,15.0,48,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.56
+2026-01-22,PROD-105,8,250.0,116,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.37
+2026-01-22,PROD-106,17,199.9,35,Silla Gamer,Muebles,SecretLab,0,Frío,5.95
+2026-01-23,PROD-101,16,899.99,117,Smartphone Galaxy,Electrónica,Samsung,0,Frío,6.88
+2026-01-23,PROD-102,39,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.25
+2026-01-23,PROD-103,32,59.85,95,Chaqueta Invierno,Ropa y Calzado,NorthFace,30,Frío,3.59
+2026-01-23,PROD-104,2,15.0,46,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.97
+2026-01-23,PROD-105,7,250.0,109,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.48
+2026-01-23,PROD-106,18,199.9,17,Silla Gamer,Muebles,SecretLab,0,Frío,8.44
+2026-01-24,PROD-101,36,899.99,81,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.74
+2026-01-24,PROD-102,65,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.59
+2026-01-24,PROD-103,38,68.4,57,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Frío,2.24
+2026-01-24,PROD-104,8,15.0,38,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.41
+2026-01-24,PROD-105,9,250.0,100,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.92
+2026-01-24,PROD-106,17,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,5.25
+2026-01-25,PROD-101,38,899.99,43,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.95
+2026-01-25,PROD-102,43,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.66
+2026-01-25,PROD-103,37,76.95,20,Chaqueta Invierno,Ropa y Calzado,NorthFace,10,Frío,8.19
+2026-01-25,PROD-104,6,15.0,32,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.33
+2026-01-25,PROD-105,8,250.0,92,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.69
+2026-01-25,PROD-106,13,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,5.15
+2026-01-26,PROD-101,27,899.99,186,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.07
+2026-01-26,PROD-102,51,120.0,148,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.55
+2026-01-26,PROD-103,32,59.85,120,Chaqueta Invierno,Ropa y Calzado,NorthFace,30,Frío,3.04
+2026-01-26,PROD-104,5,15.0,166,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.24
+2026-01-26,PROD-105,10,250.0,82,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.67
+2026-01-26,PROD-106,17,199.9,165,Silla Gamer,Muebles,SecretLab,0,Frío,5.12
+2026-01-27,PROD-101,27,809.99,159,Smartphone Galaxy,Electrónica,Samsung,10,Frío,6.37
+2026-01-27,PROD-102,46,120.0,102,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.09
+2026-01-27,PROD-103,25,85.5,95,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.92
+2026-01-27,PROD-104,5,15.0,161,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.43
+2026-01-27,PROD-105,8,250.0,74,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.52
+2026-01-27,PROD-106,15,199.9,150,Silla Gamer,Muebles,SecretLab,0,Frío,9.04
+2026-01-28,PROD-101,32,899.99,127,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.31
+2026-01-28,PROD-102,27,120.0,75,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.43
+2026-01-28,PROD-103,25,85.5,70,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,9.79
+2026-01-28,PROD-104,5,15.0,156,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.85
+2026-01-28,PROD-105,11,250.0,63,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.35
+2026-01-28,PROD-106,7,199.9,143,Silla Gamer,Muebles,SecretLab,0,Frío,5.62
+2026-01-29,PROD-101,23,899.99,104,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.88
+2026-01-29,PROD-102,37,120.0,38,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.78
+2026-01-29,PROD-103,24,85.5,46,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.71
+2026-01-29,PROD-104,3,15.0,153,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.93
+2026-01-29,PROD-105,4,250.0,59,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.19
+2026-01-29,PROD-106,12,199.9,131,Silla Gamer,Muebles,SecretLab,0,Frío,8.12
+2026-01-30,PROD-101,24,899.99,80,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.25
+2026-01-30,PROD-102,49,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.81
+2026-01-30,PROD-103,29,76.95,17,Chaqueta Invierno,Ropa y Calzado,NorthFace,10,Frío,8.39
+2026-01-30,PROD-104,5,15.0,148,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.04
+2026-01-30,PROD-105,6,250.0,53,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.95
+2026-01-30,PROD-106,8,199.9,123,Silla Gamer,Muebles,SecretLab,0,Frío,8.86
+2026-01-31,PROD-101,29,899.99,51,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.27
+2026-01-31,PROD-102,56,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.44
+2026-01-31,PROD-103,34,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.8
+2026-01-31,PROD-104,5,15.0,143,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.64
+2026-01-31,PROD-105,12,250.0,41,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.44
+2026-01-31,PROD-106,23,139.93,100,Silla Gamer,Muebles,SecretLab,30,Frío,3.48
+2026-02-01,PROD-101,28,899.99,23,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.07
+2026-02-01,PROD-102,51,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.28
+2026-02-01,PROD-103,32,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.13
+2026-02-01,PROD-104,4,15.0,139,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,7.55
+2026-02-01,PROD-105,9,250.0,32,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.08
+2026-02-01,PROD-106,22,199.9,78,Silla Gamer,Muebles,SecretLab,0,Frío,4.97
+2026-02-02,PROD-101,22,899.99,152,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.81
+2026-02-02,PROD-102,33,120.0,191,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.5
+2026-02-02,PROD-103,24,85.5,107,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.71
+2026-02-02,PROD-104,4,15.0,135,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.0
+2026-02-02,PROD-105,7,250.0,136,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.67
+2026-02-02,PROD-106,19,199.9,59,Silla Gamer,Muebles,SecretLab,0,Frío,5.08
+2026-02-03,PROD-101,15,899.99,137,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.45
+2026-02-03,PROD-102,53,120.0,138,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.29
+2026-02-03,PROD-103,25,85.5,82,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,9.44
+2026-02-03,PROD-104,6,15.0,129,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.92
+2026-02-03,PROD-105,9,250.0,127,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.56
+2026-02-03,PROD-106,11,199.9,48,Silla Gamer,Muebles,SecretLab,0,Frío,8.69
+2026-02-04,PROD-101,28,899.99,109,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.93
+2026-02-04,PROD-102,41,120.0,97,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.4
+2026-02-04,PROD-103,28,85.5,54,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.48
+2026-02-04,PROD-104,4,13.5,125,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,6.99
+2026-02-04,PROD-105,10,250.0,117,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.9
+2026-02-04,PROD-106,19,199.9,29,Silla Gamer,Muebles,SecretLab,0,Frío,3.12
+2026-02-05,PROD-101,27,899.99,82,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.29
+2026-02-05,PROD-102,34,120.0,63,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,7.87
+2026-02-05,PROD-103,26,85.5,28,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.85
+2026-02-05,PROD-104,7,15.0,118,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.88
+2026-02-05,PROD-105,7,250.0,110,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.36
+2026-02-05,PROD-106,13,199.9,16,Silla Gamer,Muebles,SecretLab,0,Frío,2.18
+2026-02-06,PROD-101,28,899.99,54,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.17
+2026-02-06,PROD-102,27,120.0,36,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.01
+2026-02-06,PROD-103,30,68.4,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Frío,2.79
+2026-02-06,PROD-104,5,15.0,113,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,5.23
+2026-02-06,PROD-105,7,250.0,103,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.28
+2026-02-06,PROD-106,12,199.9,4,Silla Gamer,Muebles,SecretLab,0,Frío,3.48
+2026-02-07,PROD-101,36,899.99,18,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.39
+2026-02-07,PROD-102,56,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.39
+2026-02-07,PROD-103,32,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.27
+2026-02-07,PROD-104,7,15.0,106,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.6
+2026-02-07,PROD-105,9,250.0,94,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.18
+2026-02-07,PROD-106,24,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,9.62
+2026-02-08,PROD-101,34,809.99,0,Smartphone Galaxy,Electrónica,Samsung,10,Frío,8.84
+2026-02-08,PROD-102,66,96.0,0,Zapatillas Running,Ropa y Calzado,Nike,20,Frío,4.46
+2026-02-08,PROD-103,28,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.66
+2026-02-08,PROD-104,7,15.0,99,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.42
+2026-02-08,PROD-105,10,250.0,84,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.41
+2026-02-08,PROD-106,29,139.93,0,Silla Gamer,Muebles,SecretLab,30,Frío,2.21
+2026-02-09,PROD-101,24,899.99,149,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.38
+2026-02-09,PROD-102,49,120.0,156,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.26
+2026-02-09,PROD-103,34,76.95,149,Chaqueta Invierno,Ropa y Calzado,NorthFace,10,Frío,3.55
+2026-02-09,PROD-104,4,15.0,95,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.25
+2026-02-09,PROD-105,8,250.0,76,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.32
+2026-02-09,PROD-106,15,199.9,197,Silla Gamer,Muebles,SecretLab,0,Frío,4.36
+2026-02-10,PROD-101,25,899.99,124,Smartphone Galaxy,Electrónica,Samsung,0,Frío,8.65
+2026-02-10,PROD-102,38,120.0,118,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.11
+2026-02-10,PROD-103,22,85.5,127,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.98
+2026-02-10,PROD-104,4,15.0,91,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.26
+2026-02-10,PROD-105,8,250.0,68,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.06
+2026-02-10,PROD-106,15,199.9,182,Silla Gamer,Muebles,SecretLab,0,Frío,8.94
+2026-02-11,PROD-101,26,899.99,98,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.67
+2026-02-11,PROD-102,31,120.0,87,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.02
+2026-02-11,PROD-103,22,85.5,105,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.48
+2026-02-11,PROD-104,4,15.0,87,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,5.91
+2026-02-11,PROD-105,7,250.0,61,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.89
+2026-02-11,PROD-106,16,199.9,166,Silla Gamer,Muebles,SecretLab,0,Frío,9.05
+2026-02-12,PROD-101,25,899.99,73,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.39
+2026-02-12,PROD-102,45,120.0,42,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.81
+2026-02-12,PROD-103,24,85.5,81,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.28
+2026-02-12,PROD-104,6,15.0,81,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,7.93
+2026-02-12,PROD-105,9,250.0,52,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.23
+2026-02-12,PROD-106,20,199.9,146,Silla Gamer,Muebles,SecretLab,0,Frío,7.19
+2026-02-13,PROD-101,26,899.99,47,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.91
+2026-02-13,PROD-102,42,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.19
+2026-02-13,PROD-103,24,85.5,57,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.8
+2026-02-13,PROD-104,4,15.0,77,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.99
+2026-02-13,PROD-105,9,250.0,43,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.48
+2026-02-13,PROD-106,16,139.93,130,Silla Gamer,Muebles,SecretLab,30,Frío,7.37
+2026-02-14,PROD-101,36,719.99,11,Smartphone Galaxy,Electrónica,Samsung,20,Frío,5.26
+2026-02-14,PROD-102,54,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.91
+2026-02-14,PROD-103,29,85.5,28,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.32
+2026-02-14,PROD-104,6,15.0,71,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.38
+2026-02-14,PROD-105,6,225.0,37,Cafetera Espresso,Hogar,DeLonghi,10,Frío,3.54
+2026-02-14,PROD-106,20,199.9,110,Silla Gamer,Muebles,SecretLab,0,Frío,9.23
+2026-02-15,PROD-101,36,809.99,0,Smartphone Galaxy,Electrónica,Samsung,10,Frío,6.85
+2026-02-15,PROD-102,51,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.34
+2026-02-15,PROD-103,35,85.5,0,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.68
+2026-02-15,PROD-104,5,13.5,66,Protector Solar FPS50,Salud y Belleza,Nivea,10,Frío,6.44
+2026-02-15,PROD-105,9,250.0,28,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.78
+2026-02-15,PROD-106,18,199.9,92,Silla Gamer,Muebles,SecretLab,0,Frío,5.43
+2026-02-16,PROD-101,25,899.99,109,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.49
+2026-02-16,PROD-102,41,120.0,152,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.94
+2026-02-16,PROD-103,31,68.4,170,Chaqueta Invierno,Ropa y Calzado,NorthFace,20,Frío,2.25
+2026-02-16,PROD-104,6,15.0,60,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.31
+2026-02-16,PROD-105,8,250.0,211,Cafetera Espresso,Hogar,DeLonghi,0,Frío,9.37
+2026-02-16,PROD-106,17,199.9,75,Silla Gamer,Muebles,SecretLab,0,Frío,3.37
+2026-02-17,PROD-101,21,899.99,88,Smartphone Galaxy,Electrónica,Samsung,0,Frío,4.39
+2026-02-17,PROD-102,28,120.0,124,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,4.38
+2026-02-17,PROD-103,25,85.5,145,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.15
+2026-02-17,PROD-104,4,15.0,56,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.68
+2026-02-17,PROD-105,6,250.0,205,Cafetera Espresso,Hogar,DeLonghi,0,Frío,4.77
+2026-02-17,PROD-106,14,199.9,61,Silla Gamer,Muebles,SecretLab,0,Frío,9.55
+2026-02-18,PROD-101,26,899.99,62,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.38
+2026-02-18,PROD-102,38,120.0,86,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.82
+2026-02-18,PROD-103,25,85.5,120,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.2
+2026-02-18,PROD-104,4,15.0,52,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,7.47
+2026-02-18,PROD-105,9,250.0,196,Cafetera Espresso,Hogar,DeLonghi,0,Frío,8.07
+2026-02-18,PROD-106,13,199.9,48,Silla Gamer,Muebles,SecretLab,0,Frío,7.84
+2026-02-19,PROD-101,23,899.99,39,Smartphone Galaxy,Electrónica,Samsung,0,Frío,7.04
+2026-02-19,PROD-102,29,120.0,57,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.94
+2026-02-19,PROD-103,25,85.5,95,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.35
+2026-02-19,PROD-104,6,10.5,46,Protector Solar FPS50,Salud y Belleza,Nivea,30,Frío,7.6
+2026-02-19,PROD-105,7,250.0,189,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.34
+2026-02-19,PROD-106,15,199.9,33,Silla Gamer,Muebles,SecretLab,0,Frío,5.07
+2026-02-20,PROD-101,19,899.99,20,Smartphone Galaxy,Electrónica,Samsung,0,Frío,2.66
+2026-02-20,PROD-102,23,120.0,34,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,2.2
+2026-02-20,PROD-103,24,85.5,71,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,5.87
+2026-02-20,PROD-104,5,15.0,41,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,9.97
+2026-02-20,PROD-105,6,250.0,183,Cafetera Espresso,Hogar,DeLonghi,0,Frío,3.22
+2026-02-20,PROD-106,15,199.9,18,Silla Gamer,Muebles,SecretLab,0,Frío,7.6
+2026-02-21,PROD-101,26,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.95
+2026-02-21,PROD-102,49,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,5.68
+2026-02-21,PROD-103,34,85.5,37,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.16
+2026-02-21,PROD-104,6,15.0,35,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.08
+2026-02-21,PROD-105,9,250.0,174,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.06
+2026-02-21,PROD-106,19,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,2.49
+2026-02-22,PROD-101,42,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.26
+2026-02-22,PROD-102,46,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,3.6
+2026-02-22,PROD-103,32,85.5,5,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.47
+2026-02-22,PROD-104,6,15.0,29,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.95
+2026-02-22,PROD-105,14,200.0,160,Cafetera Espresso,Hogar,DeLonghi,20,Frío,8.28
+2026-02-22,PROD-106,19,199.9,0,Silla Gamer,Muebles,SecretLab,0,Frío,4.16
+2026-02-23,PROD-101,36,629.99,127,Smartphone Galaxy,Electrónica,Samsung,30,Frío,7.96
+2026-02-23,PROD-102,31,120.0,200,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.78
+2026-02-23,PROD-103,23,85.5,162,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,4.27
+2026-02-23,PROD-104,3,15.0,172,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,6.74
+2026-02-23,PROD-105,8,250.0,152,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.7
+2026-02-23,PROD-106,11,199.9,146,Silla Gamer,Muebles,SecretLab,0,Frío,9.98
+2026-02-24,PROD-101,31,629.99,96,Smartphone Galaxy,Electrónica,Samsung,30,Frío,5.33
+2026-02-24,PROD-102,47,120.0,153,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,9.31
+2026-02-24,PROD-103,22,85.5,140,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,3.99
+2026-02-24,PROD-104,6,15.0,166,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,8.01
+2026-02-24,PROD-105,10,200.0,142,Cafetera Espresso,Hogar,DeLonghi,20,Frío,4.18
+2026-02-24,PROD-106,20,199.9,126,Silla Gamer,Muebles,SecretLab,0,Frío,9.4
+2026-02-25,PROD-101,19,899.99,77,Smartphone Galaxy,Electrónica,Samsung,0,Frío,5.89
+2026-02-25,PROD-102,49,120.0,104,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.45
+2026-02-25,PROD-103,25,85.5,115,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,6.27
+2026-02-25,PROD-104,4,12.0,162,Protector Solar FPS50,Salud y Belleza,Nivea,20,Frío,3.77
+2026-02-25,PROD-105,9,250.0,133,Cafetera Espresso,Hogar,DeLonghi,0,Frío,2.23
+2026-02-25,PROD-106,14,199.9,112,Silla Gamer,Muebles,SecretLab,0,Frío,6.62
+2026-02-26,PROD-101,22,899.99,55,Smartphone Galaxy,Electrónica,Samsung,0,Frío,3.39
+2026-02-26,PROD-102,24,120.0,80,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,8.85
+2026-02-26,PROD-103,25,85.5,90,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,8.65
+2026-02-26,PROD-104,4,15.0,158,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,3.87
+2026-02-26,PROD-105,7,250.0,126,Cafetera Espresso,Hogar,DeLonghi,0,Frío,6.12
+2026-02-26,PROD-106,10,199.9,102,Silla Gamer,Muebles,SecretLab,0,Frío,6.67
+2026-02-27,PROD-101,22,899.99,33,Smartphone Galaxy,Electrónica,Samsung,0,Frío,6.62
+2026-02-27,PROD-102,45,120.0,35,Zapatillas Running,Ropa y Calzado,Nike,0,Frío,6.24
+2026-02-27,PROD-103,27,85.5,63,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,7.18
+2026-02-27,PROD-104,5,15.0,153,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,4.36
+2026-02-27,PROD-105,8,250.0,118,Cafetera Espresso,Hogar,DeLonghi,0,Frío,7.88
+2026-02-27,PROD-106,13,199.9,89,Silla Gamer,Muebles,SecretLab,0,Frío,3.98
+2026-02-28,PROD-101,36,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Frío,9.56
+2026-02-28,PROD-102,72,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Frío,4.97
+2026-02-28,PROD-103,32,85.5,31,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Frío,2.64
+2026-02-28,PROD-104,6,15.0,147,Protector Solar FPS50,Salud y Belleza,Nivea,0,Frío,2.21
+2026-02-28,PROD-105,8,250.0,110,Cafetera Espresso,Hogar,DeLonghi,0,Frío,5.79
+2026-02-28,PROD-106,17,199.9,72,Silla Gamer,Muebles,SecretLab,0,Frío,9.96
+2026-03-01,PROD-101,35,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.18
+2026-03-01,PROD-102,38,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,2.52
+2026-03-01,PROD-103,11,85.5,20,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.78
+2026-03-01,PROD-104,5,13.5,142,Protector Solar FPS50,Salud y Belleza,Nivea,10,Templado,6.44
+2026-03-01,PROD-105,7,250.0,103,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.21
+2026-03-01,PROD-106,15,199.9,57,Silla Gamer,Muebles,SecretLab,0,Templado,5.07
+2026-03-02,PROD-101,18,899.99,119,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.33
+2026-03-02,PROD-102,31,108.0,102,Zapatillas Running,Ropa y Calzado,Nike,10,Templado,8.32
+2026-03-02,PROD-103,10,85.5,157,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.38
+2026-03-02,PROD-104,5,15.0,137,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.55
+2026-03-02,PROD-105,8,200.0,95,Cafetera Espresso,Hogar,DeLonghi,20,Templado,4.51
+2026-03-02,PROD-106,11,199.9,231,Silla Gamer,Muebles,SecretLab,0,Templado,6.41
+2026-03-03,PROD-101,25,899.99,94,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.71
+2026-03-03,PROD-102,29,120.0,73,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.26
+2026-03-03,PROD-103,11,85.5,146,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.52
+2026-03-03,PROD-104,6,15.0,131,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.43
+2026-03-03,PROD-105,8,250.0,87,Cafetera Espresso,Hogar,DeLonghi,0,Templado,2.3
+2026-03-03,PROD-106,11,199.9,220,Silla Gamer,Muebles,SecretLab,0,Templado,9.78
+2026-03-04,PROD-101,20,899.99,74,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.28
+2026-03-04,PROD-102,36,120.0,37,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.52
+2026-03-04,PROD-103,9,85.5,137,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.36
+2026-03-04,PROD-104,5,15.0,126,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.12
+2026-03-04,PROD-105,10,250.0,77,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.34
+2026-03-04,PROD-106,20,199.9,200,Silla Gamer,Muebles,SecretLab,0,Templado,8.04
+2026-03-05,PROD-101,21,899.99,53,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.32
+2026-03-05,PROD-102,45,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,4.39
+2026-03-05,PROD-103,9,85.5,128,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.5
+2026-03-05,PROD-104,3,15.0,123,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.9
+2026-03-05,PROD-105,5,250.0,72,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.32
+2026-03-05,PROD-106,12,199.9,188,Silla Gamer,Muebles,SecretLab,0,Templado,8.28
+2026-03-06,PROD-101,30,899.99,23,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.92
+2026-03-06,PROD-102,44,84.0,0,Zapatillas Running,Ropa y Calzado,Nike,30,Templado,8.08
+2026-03-06,PROD-103,9,85.5,119,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.53
+2026-03-06,PROD-104,5,15.0,118,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,2.49
+2026-03-06,PROD-105,7,250.0,65,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.62
+2026-03-06,PROD-106,14,199.9,174,Silla Gamer,Muebles,SecretLab,0,Templado,8.38
+2026-03-07,PROD-101,33,809.99,0,Smartphone Galaxy,Electrónica,Samsung,10,Templado,9.45
+2026-03-07,PROD-102,48,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.77
+2026-03-07,PROD-103,13,85.5,106,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.62
+2026-03-07,PROD-104,6,15.0,112,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.26
+2026-03-07,PROD-105,11,250.0,54,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.91
+2026-03-07,PROD-106,21,199.9,153,Silla Gamer,Muebles,SecretLab,0,Templado,6.31
+2026-03-08,PROD-101,26,899.99,0,Smartphone Galaxy,Electrónica,Samsung,0,Templado,8.82
+2026-03-08,PROD-102,62,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,3.69
+2026-03-08,PROD-103,14,85.5,92,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,4.14
+2026-03-08,PROD-104,7,15.0,105,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,4.45
+2026-03-08,PROD-105,10,250.0,44,Cafetera Espresso,Hogar,DeLonghi,0,Templado,6.2
+2026-03-08,PROD-106,16,199.9,137,Silla Gamer,Muebles,SecretLab,0,Templado,3.61
+2026-03-09,PROD-101,37,629.99,172,Smartphone Galaxy,Electrónica,Samsung,30,Templado,6.77
+2026-03-09,PROD-102,33,120.0,115,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.74
+2026-03-09,PROD-103,7,85.5,85,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.16
+2026-03-09,PROD-104,5,15.0,100,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,3.7
+2026-03-09,PROD-105,8,250.0,159,Cafetera Espresso,Hogar,DeLonghi,0,Templado,5.78
+2026-03-09,PROD-106,14,199.9,123,Silla Gamer,Muebles,SecretLab,0,Templado,7.76
+2026-03-10,PROD-101,26,899.99,146,Smartphone Galaxy,Electrónica,Samsung,0,Templado,5.37
+2026-03-10,PROD-102,45,120.0,70,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.84
+2026-03-10,PROD-103,10,85.5,75,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,9.84
+2026-03-10,PROD-104,6,15.0,94,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.6
+2026-03-10,PROD-105,6,250.0,153,Cafetera Espresso,Hogar,DeLonghi,0,Templado,8.92
+2026-03-10,PROD-106,15,199.9,108,Silla Gamer,Muebles,SecretLab,0,Templado,7.33
+2026-03-11,PROD-101,32,899.99,114,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.97
+2026-03-11,PROD-102,35,120.0,35,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.96
+2026-03-11,PROD-103,6,85.5,69,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.34
+2026-03-11,PROD-104,4,15.0,90,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,9.73
+2026-03-11,PROD-105,6,250.0,147,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.81
+2026-03-11,PROD-106,18,199.9,90,Silla Gamer,Muebles,SecretLab,0,Templado,5.99
+2026-03-12,PROD-101,21,899.99,93,Smartphone Galaxy,Electrónica,Samsung,0,Templado,6.45
+2026-03-12,PROD-102,41,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,6.01
+2026-03-12,PROD-103,11,85.5,58,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,7.54
+2026-03-12,PROD-104,2,15.0,88,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,6.89
+2026-03-12,PROD-105,10,250.0,137,Cafetera Espresso,Hogar,DeLonghi,0,Templado,3.82
+2026-03-12,PROD-106,16,199.9,74,Silla Gamer,Muebles,SecretLab,0,Templado,2.23
+2026-03-13,PROD-101,30,899.99,63,Smartphone Galaxy,Electrónica,Samsung,0,Templado,2.61
+2026-03-13,PROD-102,39,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,8.32
+2026-03-13,PROD-103,4,85.5,54,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,3.04
+2026-03-13,PROD-104,4,15.0,84,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,5.81
+2026-03-13,PROD-105,8,250.0,129,Cafetera Espresso,Hogar,DeLonghi,0,Templado,4.51
+2026-03-13,PROD-106,21,159.92,53,Silla Gamer,Muebles,SecretLab,20,Templado,3.77
+2026-03-14,PROD-101,31,899.99,32,Smartphone Galaxy,Electrónica,Samsung,0,Templado,9.09
+2026-03-14,PROD-102,44,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,5.11
+2026-03-14,PROD-103,14,85.5,40,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,5.55
+2026-03-14,PROD-104,6,15.0,78,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,8.75
+2026-03-14,PROD-105,11,250.0,118,Cafetera Espresso,Hogar,DeLonghi,0,Templado,7.78
+2026-03-14,PROD-106,22,199.9,31,Silla Gamer,Muebles,SecretLab,0,Templado,4.51
+2026-03-15,PROD-101,29,899.99,3,Smartphone Galaxy,Electrónica,Samsung,0,Templado,3.84
+2026-03-15,PROD-102,52,120.0,0,Zapatillas Running,Ropa y Calzado,Nike,0,Templado,9.71
+2026-03-15,PROD-103,10,85.5,30,Chaqueta Invierno,Ropa y Calzado,NorthFace,0,Templado,6.72
+2026-03-15,PROD-104,6,15.0,72,Protector Solar FPS50,Salud y Belleza,Nivea,0,Templado,7.78
+2026-03-15,PROD-105,7,250.0,111,Cafetera Espresso,Hogar,DeLonghi,0,Templado,9.16
+2026-03-15,PROD-106,19,199.9,12,Silla Gamer,Muebles,SecretLab,0,Templado,3.09

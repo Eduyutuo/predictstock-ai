@@ -13,7 +13,7 @@ import {
 import {
   TrendingUp, Package, AlertTriangle, BarChart3,
   ShoppingCart, DollarSign, Upload, RefreshCw, Activity,
-  ArrowUpRight, ArrowDownRight, Boxes, Skull,
+  ArrowUpRight, ArrowDownRight, Boxes, Skull, Download,
 } from 'lucide-react';
 import { getAnalytics, getInventory, getProducts, uploadCSV } from '../services/api';
 
@@ -96,6 +96,43 @@ function AlertBadge({ type }) {
     VERDE: 'Saludable',
   };
   return <span className={classes[type] || 'badge-green'}>{labels[type] || type}</span>;
+}
+
+/* ──────────────────────────────────────────────
+   CSV Format Guide Component
+   ────────────────────────────────────────────── */
+function CSVFormatGuide() {
+  const columns = [
+    { name: 'fecha', desc: 'Fecha del registro (AAAA-MM-DD)', example: '2024-01-01' },
+    { name: 'producto_id', desc: 'Nombre o ID del producto', example: 'Laptop-X1' },
+    { name: 'cantidad_vendida', desc: 'Unidades vendidas', example: '5' },
+    { name: 'precio', desc: 'Precio unitario de venta', example: '1200' },
+    { name: 'stock_actual', desc: 'Inventario al cierre', example: '50' },
+  ];
+
+  return (
+    <div className="glass-card p-6 mb-8 animate-fade-in-up" style={{ animationDelay: '0.1s', border: '1px solid rgba(59, 130, 246, 0.2)' }}>
+      <div className="flex items-center gap-3 mb-4">
+        <Activity size={18} className="text-blue-400" />
+        <h3 className="text-sm font-bold uppercase tracking-wider" style={{ color: '#f1f5f9' }}>
+          Estructura de Datos Requerida (CSV)
+        </h3>
+      </div>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
+        {columns.map((col) => (
+          <div key={col.name} className="p-3 rounded-xl bg-white/5 border border-white/5 flex flex-col justify-between">
+            <div>
+              <p className="text-xs font-bold text-blue-400 mb-1">{col.name}</p>
+              <p className="text-[10px] leading-relaxed mb-3" style={{ color: '#94a3b8' }}>{col.desc}</p>
+            </div>
+            <code className="text-[10px] bg-black/30 px-2 py-1 rounded text-center" style={{ color: '#cbd5e1' }}>
+              Ej: {col.example}
+            </code>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
 }
 
 /* ──────────────────────────────────────────────
@@ -252,6 +289,8 @@ export default function Dashboard() {
 
       {/* ── Main Content ── */}
       <main className="max-w-[1600px] mx-auto px-4 sm:px-6 py-6 sm:py-8">
+        {!analytics && <CSVFormatGuide />}
+
         {/* Upload Zone */}
         <div
           className={`upload-zone p-6 sm:p-8 mb-6 sm:mb-8 text-center ${dragOver ? 'drag-over' : ''}`}
@@ -279,10 +318,35 @@ export default function Dashboard() {
                   ? 'Procesando archivo y entrenando modelo...'
                   : 'Arrastra tu archivo CSV o haz clic para seleccionar'}
               </p>
-              <p className="text-xs mt-1" style={{ color: '#64748b' }}>
-                Columnas: fecha, producto_id, cantidad_vendida, precio, stock_actual
-              </p>
             </div>
+          </div>
+          
+          <div className="mt-4 flex flex-wrap justify-center gap-3" onClick={(e) => e.stopPropagation()}>
+            <p className="w-full text-[10px] uppercase tracking-wider font-bold mb-1" style={{ color: '#475569' }}>Descargar Ejemplos:</p>
+            <a
+              href="/examples/electro_tech_sales.csv"
+              download
+              className="flex items-center gap-2 text-xs font-medium px-3 py-1.5 rounded-lg border border-white/5 bg-white/5 hover:bg-white/10 transition-all"
+              style={{ color: '#94a3b8' }}
+            >
+              <Download size={14} /> Electrónica
+            </a>
+            <a
+              href="/examples/fashion_trend_sales.csv"
+              download
+              className="flex items-center gap-2 text-xs font-medium px-3 py-1.5 rounded-lg border border-white/5 bg-white/5 hover:bg-white/10 transition-all"
+              style={{ color: '#94a3b8' }}
+            >
+              <Download size={14} /> Moda
+            </a>
+            <a
+              href="/examples/grocery_market_sales.csv"
+              download
+              className="flex items-center gap-2 text-xs font-medium px-3 py-1.5 rounded-lg border border-white/5 bg-white/5 hover:bg-white/10 transition-all"
+              style={{ color: '#94a3b8' }}
+            >
+              <Download size={14} /> Abarrotes
+            </a>
           </div>
         </div>
 
@@ -633,6 +697,33 @@ export default function Dashboard() {
                 Arrastra un archivo CSV con tu historial de ventas para que la IA
                 analice tu inventario y genere predicciones de demanda.
               </p>
+              
+              <div className="mt-8 flex flex-col items-center gap-4">
+                <p className="text-xs font-semibold uppercase tracking-widest" style={{ color: '#475569' }}>¿No tienes datos? Descarga un ejemplo:</p>
+                <div className="flex flex-wrap justify-center gap-3">
+                  <a
+                    href="/examples/electro_tech_sales.csv"
+                    download
+                    className="flex items-center gap-2 text-sm font-semibold px-6 py-3 rounded-xl bg-blue-600/10 border border-blue-500/20 text-blue-400 hover:bg-blue-600/20 transition-all"
+                  >
+                    <Download size={18} /> Electrónica
+                  </a>
+                  <a
+                    href="/examples/fashion_trend_sales.csv"
+                    download
+                    className="flex items-center gap-2 text-sm font-semibold px-6 py-3 rounded-xl bg-purple-600/10 border border-purple-500/20 text-purple-400 hover:bg-purple-600/20 transition-all"
+                  >
+                    <Download size={18} /> Moda
+                  </a>
+                  <a
+                    href="/examples/grocery_market_sales.csv"
+                    download
+                    className="flex items-center gap-2 text-sm font-semibold px-6 py-3 rounded-xl bg-emerald-600/10 border border-emerald-500/20 text-emerald-400 hover:bg-emerald-600/20 transition-all"
+                  >
+                    <Download size={18} /> Abarrotes
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         )}
